@@ -7,10 +7,139 @@
    viewBox="0 0 297 210"
    version="1.1"
    id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="m17_trifold_brochure_back.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.73952369"
+     inkscape:cx="549.67813"
+     inkscape:cy="418.51262"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true">
+    <sodipodi:guide
+       position="105,116.64534"
+       orientation="-1,0"
+       id="guide9"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="198,93.926284"
+       orientation="-1,0"
+       id="guide11"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,184.8025"
+       orientation="-1,0"
+       id="guide190"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="141.27121,0"
+       orientation="0,1"
+       id="guide482"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="154.48957,210"
+       orientation="0,1"
+       id="guide484"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="297,84.425589"
+       orientation="-1,0"
+       id="guide929"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="166.46871,190"
+       orientation="0,1"
+       id="guide39064"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="172.33147,20"
+       orientation="0,1"
+       id="guide39066"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="93,40.114768"
+       orientation="-1,0"
+       id="guide105355"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="99.000003,0"
+       orientation="1,0"
+       id="guide105636" />
+    <sodipodi:guide
+       position="204.00001,-6.8382531"
+       orientation="-1,0"
+       id="guide105712"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="192.00001,-8.4447328"
+       orientation="-1,0"
+       id="guide105714"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="291.00001,-27.795511"
+       orientation="-1,0"
+       id="guide105792"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="6,-5.0857298"
+       orientation="-1,0"
+       id="guide105871"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
   <defs
      id="defs2">
+    <rect
+       x="771.02366"
+       y="546.29758"
+       width="328.8189"
+       height="55.441091"
+       id="rect410729" />
     <rect
        x="106.94381"
        y="505.83641"
@@ -2732,6 +2861,8 @@
        id="rect124342-4" />
   </defs>
   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1">
     <rect
        style="fill:none;stroke:#4d4d4d;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -2768,9 +2899,9 @@
        y="0"><tspan
          x="449.70508"
          y="103.90234"
-         id="tspan358377"><tspan
+         id="tspan421057"><tspan
            style="line-height:1.25;text-align:center;text-anchor:middle"
-           id="tspan358375">When is M17?</tspan></tspan></text>
+           id="tspan421055">When is M17?</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,3.2064709,0)"
@@ -2778,49 +2909,49 @@
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect124342);fill:#4d4d4d;fill-opacity:1;stroke:none"><tspan
          x="396.84961"
          y="147.65823"
-         id="tspan358383"><tspan
+         id="tspan421063"><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan358379">24/7</tspan><tspan
+           id="tspan421059">24/7</tspan><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358381">, thanks to being global </tspan></tspan><tspan
+           id="tspan421061">, thanks to being global </tspan></tspan><tspan
          x="396.84961"
          y="170.99161"
-         id="tspan358387"><tspan
+         id="tspan421067"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358385">across all time zones,
+           id="tspan421065">across all time zones,
 </tspan></tspan><tspan
          x="396.84961"
          y="194.32498"
-         id="tspan358391"><tspan
+         id="tspan421071"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358389">for the last three years.
+           id="tspan421069">for the last three years.
 </tspan></tspan><tspan
          x="396.84961"
          y="217.65836"
-         id="tspan358395"><tspan
+         id="tspan421075"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358393">Started in 2019, in SP5KAB </tspan></tspan><tspan
+           id="tspan421073">Started in 2019, in SP5KAB </tspan></tspan><tspan
          x="396.84961"
          y="240.99173"
-         id="tspan358399"><tspan
+         id="tspan421079"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358397">amateur radio club in Warsaw, </tspan></tspan><tspan
+           id="tspan421077">amateur radio club in Warsaw, </tspan></tspan><tspan
          x="396.84961"
          y="264.3251"
-         id="tspan358403"><tspan
+         id="tspan421083"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358401">Poland, M17 currently has active
+           id="tspan421081">Poland, M17 currently has active
 </tspan></tspan><tspan
          x="396.84961"
          y="287.65848"
-         id="tspan358407"><tspan
+         id="tspan421087"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358405">developers across the globe </tspan></tspan><tspan
+           id="tspan421085">developers across the globe </tspan></tspan><tspan
          x="396.84961"
          y="310.99185"
-         id="tspan358411"><tspan
+         id="tspan421091"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358409">involved daily.</tspan></tspan></text>
+           id="tspan421089">involved daily.</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,99.155052,0.00558546)"
@@ -2830,139 +2961,107 @@
        y="0"><tspan
          x="392.50977"
          y="103.90234"
-         id="tspan358415"><tspan
+         id="tspan421095"><tspan
            style="line-height:1.25;text-align:center;text-anchor:middle"
-           id="tspan358413">How to get involved?</tspan></tspan></text>
+           id="tspan421093">How to get involved?</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,99.071428,0.00558546)"
        id="text124340-4"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect124342-5);fill:#4d4d4d;fill-opacity:1;stroke:none"
-       x="163.81671"
+       x="327.35544"
        y="0"><tspan
          x="396.84961"
          y="147.65823"
-         id="tspan358419"><tspan
+         id="tspan421099"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358417">Discord and Matrix are the main </tspan></tspan><tspan
+           id="tspan421097">Discord and Matrix are the main </tspan></tspan><tspan
          x="396.84961"
          y="170.99161"
-         id="tspan358423"><tspan
+         id="tspan421103"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358421">means for development and
+           id="tspan421101">means for development and
 </tspan></tspan><tspan
          x="396.84961"
          y="194.32498"
-         id="tspan358427"><tspan
+         id="tspan421107"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358425">discussion. Weekly voice chat on </tspan></tspan><tspan
+           id="tspan421105">discussion. Weekly voice chat on </tspan></tspan><tspan
          x="396.84961"
          y="217.65836"
-         id="tspan358431"><tspan
+         id="tspan421111"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358429">Fridays at 1700
-</tspan></tspan><tspan
+           id="tspan421109">Fridays at 1700 UTC on the M17-</tspan></tspan><tspan
          x="396.84961"
          y="240.99173"
-         id="tspan358435"><tspan
+         id="tspan421115"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358433">UTC on the M17-M17 Reflector, </tspan></tspan><tspan
+           id="tspan421113">M17 Reflector, Module C.
+</tspan></tspan><tspan
          x="396.84961"
          y="264.3251"
-         id="tspan358439"><tspan
+         id="tspan421119"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358437">Module C.
-</tspan></tspan><tspan
+           id="tspan421117">GitHub and occasionally other </tspan></tspan><tspan
          x="396.84961"
          y="287.65848"
-         id="tspan358443"><tspan
+         id="tspan421123"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358441">GitHub and occasionally other </tspan></tspan><tspan
+           id="tspan421121">code forges for code sharing.
+</tspan></tspan><tspan
          x="396.84961"
          y="310.99185"
-         id="tspan358447"><tspan
+         id="tspan421127"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358445">code forges for code
-</tspan></tspan><tspan
+           id="tspan421125">Chat with us on DroidStar, mvoice, </tspan></tspan><tspan
          x="396.84961"
          y="334.32523"
-         id="tspan358451"><tspan
+         id="tspan421131"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358449">sharing.
-</tspan></tspan><tspan
+           id="tspan421129">or M17Client via the M17-M17 C </tspan></tspan><tspan
          x="396.84961"
          y="357.6586"
-         id="tspan358455"><tspan
+         id="tspan421135"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358453">Chat with us on DroidStar, mvoice, </tspan></tspan><tspan
+           id="tspan421133">reflector!
+</tspan></tspan><tspan
          x="396.84961"
          y="380.99197"
-         id="tspan358459"><tspan
+         id="tspan421139"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358457">or M17Client via
-</tspan></tspan><tspan
+           id="tspan421137">M17 is autonomous, self-driven </tspan></tspan><tspan
          x="396.84961"
          y="404.32535"
-         id="tspan358463"><tspan
+         id="tspan421143"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358461">the M17-M17 C Reflector!
-</tspan></tspan><tspan
+           id="tspan421141">and self-selected. There is no </tspan></tspan><tspan
          x="396.84961"
          y="427.65872"
-         id="tspan358467"><tspan
+         id="tspan421147"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358465">M17 is autonomous, self-driven </tspan></tspan><tspan
+           id="tspan421145">strong hierarchy by default, but </tspan></tspan><tspan
          x="396.84961"
          y="450.9921"
-         id="tspan358471"><tspan
+         id="tspan421151"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358469">and self-selected.
-</tspan></tspan><tspan
+           id="tspan421149">the community is happy to provide </tspan></tspan><tspan
          x="396.84961"
          y="474.32547"
-         id="tspan358475"><tspan
+         id="tspan421155"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358473">There is no strong hierarchy by </tspan></tspan><tspan
+           id="tspan421153">guidance if desired!
+</tspan></tspan><tspan
          x="396.84961"
          y="497.65884"
-         id="tspan358479"><tspan
+         id="tspan421159"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358477">default, but the
+           id="tspan421157">
 </tspan></tspan><tspan
          x="396.84961"
          y="520.99222"
-         id="tspan358483"><tspan
+         id="tspan421163"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358481">community is happy to provide </tspan></tspan><tspan
-         x="396.84961"
-         y="544.32559"
-         id="tspan358487"><tspan
-           style="-inkscape-font-specification:sans-serif"
-           id="tspan358485">guidance if desired!
-</tspan></tspan><tspan
-         x="396.84961"
-         y="567.65897"
-         id="tspan358491"><tspan
-           style="-inkscape-font-specification:sans-serif"
-           id="tspan358489">
-</tspan></tspan><tspan
-         x="396.84961"
-         y="590.99234"
-         id="tspan358495"><tspan
-           style="-inkscape-font-specification:sans-serif"
-           id="tspan358493">M17 is built and created by and for
-</tspan></tspan><tspan
-         x="396.84961"
-         y="614.32571"
-         id="tspan358499"><tspan
-           style="-inkscape-font-specification:sans-serif"
-           id="tspan358497">
-</tspan></tspan><tspan
-         x="396.84961"
-         y="637.65909"
-         id="tspan358503"><tspan
-           style="-inkscape-font-specification:sans-serif"
-           id="tspan358501">Hams Just Like You!</tspan></tspan></text>
+           id="tspan421161">M17 is built and created by and for</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-98.928572,0.0483166)"
@@ -2972,9 +3071,9 @@
        y="0"><tspan
          x="478.08789"
          y="103.90234"
-         id="tspan358507"><tspan
+         id="tspan421167"><tspan
            style="line-height:1.25;text-align:center;text-anchor:middle"
-           id="tspan358505">Why M17?</tspan></tspan></text>
+           id="tspan421165">Why M17?</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-98.928572,0.0483166)"
@@ -2982,135 +3081,135 @@
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect124342-1);fill:#4d4d4d;fill-opacity:1;stroke:none"><tspan
          x="396.84961"
          y="147.65823"
-         id="tspan358511"><tspan
+         id="tspan421171"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358509">Digital radio modes have </tspan></tspan><tspan
+           id="tspan421169">Digital radio modes have </tspan></tspan><tspan
          x="396.84961"
          y="170.99161"
-         id="tspan358515"><tspan
+         id="tspan421175"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358513">stagnated since the early 1990s </tspan></tspan><tspan
+           id="tspan421173">stagnated since the early 1990s </tspan></tspan><tspan
          x="396.84961"
          y="194.32498"
-         id="tspan358519"><tspan
+         id="tspan421179"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358517">due to the use of proprietary voice </tspan></tspan><tspan
+           id="tspan421177">due to the use of proprietary voice </tspan></tspan><tspan
          x="396.84961"
          y="217.65836"
-         id="tspan358523"><tspan
+         id="tspan421183"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358521">coders, software or chip that </tspan></tspan><tspan
+           id="tspan421181">coders, software or chip that </tspan></tspan><tspan
          x="396.84961"
          y="240.99173"
-         id="tspan358527"><tspan
+         id="tspan421187"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358525">converts analog voice into a low-</tspan></tspan><tspan
+           id="tspan421185">converts analog voice into a low-</tspan></tspan><tspan
          x="396.84961"
          y="264.3251"
-         id="tspan358531"><tspan
+         id="tspan421191"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358529">bitrate data stream and back. </tspan></tspan><tspan
+           id="tspan421189">bitrate data stream and back. </tspan></tspan><tspan
          x="396.84961"
          y="287.65848"
-         id="tspan358535"><tspan
+         id="tspan421195"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358533">Development and experimentation </tspan></tspan><tspan
+           id="tspan421193">Development and experimentation </tspan></tspan><tspan
          x="396.84961"
          y="310.99185"
-         id="tspan358539"><tspan
+         id="tspan421199"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358537">are all limited by the patent </tspan></tspan><tspan
+           id="tspan421197">are all limited by the patent </tspan></tspan><tspan
          x="396.84961"
          y="334.32523"
-         id="tspan358543"><tspan
+         id="tspan421203"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358541">encumbered voice codecs, </tspan></tspan><tspan
+           id="tspan421201">encumbered voice codecs, </tspan></tspan><tspan
          x="396.84961"
          y="357.6586"
-         id="tspan358547"><tspan
+         id="tspan421207"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358545">preventing hams from building </tspan></tspan><tspan
+           id="tspan421205">preventing hams from building </tspan></tspan><tspan
          x="396.84961"
          y="380.99197"
-         id="tspan358551"><tspan
+         id="tspan421211"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358549">and working on their own radios. </tspan></tspan><tspan
+           id="tspan421209">and working on their own radios. </tspan></tspan><tspan
          x="396.84961"
          y="404.32535"
-         id="tspan358557"><tspan
+         id="tspan421217"><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan358553">M17</tspan><tspan
+           id="tspan421213">M17</tspan><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358555"> uses a fully-open ham-</tspan></tspan><tspan
+           id="tspan421215"> uses a fully-open ham-</tspan></tspan><tspan
          x="396.84961"
          y="427.65872"
-         id="tspan358561"><tspan
+         id="tspan421221"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358559">developed voice encoder called </tspan></tspan><tspan
+           id="tspan421219">developed voice encoder called </tspan></tspan><tspan
          x="396.84961"
          y="450.9921"
-         id="tspan358571"><tspan
+         id="tspan421231"><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan358563">Codec 2</tspan><tspan
+           id="tspan421223">Codec 2</tspan><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358565">, which is </tspan><tspan
+           id="tspan421225">, which is </tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan358567">patent free</tspan><tspan
+           id="tspan421227">patent free</tspan><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358569"> </tspan></tspan><tspan
+           id="tspan421229"> </tspan></tspan><tspan
          x="396.84961"
          y="474.32547"
-         id="tspan358577"><tspan
+         id="tspan421237"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358573">and has </tspan><tspan
+           id="tspan421233">and has </tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan358575">no royalties or </tspan></tspan><tspan
+           id="tspan421235">no royalties or </tspan></tspan><tspan
          x="396.84961"
          y="497.65884"
-         id="tspan358583"><tspan
+         id="tspan421243"><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan358579">licensing costs</tspan><tspan
+           id="tspan421239">licensing costs</tspan><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358581"> – and is about on-</tspan></tspan><tspan
+           id="tspan421241"> – and is about on-</tspan></tspan><tspan
          x="396.84961"
          y="520.99222"
-         id="tspan358587"><tspan
+         id="tspan421247"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358585">par with AMBE2+ used in other </tspan></tspan><tspan
+           id="tspan421245">par with AMBE2+ used in other </tspan></tspan><tspan
          x="396.84961"
          y="544.32559"
-         id="tspan358591"><tspan
+         id="tspan421251"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358589">commercially available digital </tspan></tspan><tspan
+           id="tspan421249">commercially available digital </tspan></tspan><tspan
          x="396.84961"
          y="567.65897"
-         id="tspan358595"><tspan
+         id="tspan421255"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358593">voice modes in terms of voice </tspan></tspan><tspan
+           id="tspan421253">voice modes in terms of voice </tspan></tspan><tspan
          x="396.84961"
          y="590.99234"
-         id="tspan358599"><tspan
+         id="tspan421259"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358597">quality. M17 is more fun to work </tspan></tspan><tspan
+           id="tspan421257">quality. M17 is more fun to work </tspan></tspan><tspan
          x="396.84961"
          y="614.32571"
-         id="tspan358603"><tspan
+         id="tspan421263"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358601">on. Ham radio was meant to be </tspan></tspan><tspan
+           id="tspan421261">on. Ham radio was meant to be </tspan></tspan><tspan
          x="396.84961"
          y="637.65909"
-         id="tspan358611"><tspan
+         id="tspan421271"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358605">fun, meant to be </tspan><tspan
+           id="tspan421265">fun, meant to be </tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-           id="tspan358607">free</tspan><tspan
+           id="tspan421267">free</tspan><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358609">, and meant </tspan></tspan><tspan
+           id="tspan421269">, and meant </tspan></tspan><tspan
          x="396.84961"
          y="660.99246"
-         id="tspan358615"><tspan
+         id="tspan421275"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358613">to be exploratory.</tspan></tspan></text>
+           id="tspan421273">to be exploratory.</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-0.20875057,75.183651)"
@@ -3120,9 +3219,9 @@
        y="0"><tspan
          x="520.31445"
          y="103.90234"
-         id="tspan358619"><tspan
+         id="tspan421279"><tspan
            style="line-height:1.25;text-align:center;text-anchor:middle"
-           id="tspan358617">Facts</tspan></tspan></text>
+           id="tspan421277">Facts</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,3.206471,75.183651)"
@@ -3130,53 +3229,360 @@
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect124342-4);fill:#4d4d4d;fill-opacity:1;stroke:none"><tspan
          x="396.84961"
          y="147.65823"
-         id="tspan358623"><tspan
+         id="tspan421283"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358621">- 4FSK modulation, 9600 bits per </tspan></tspan><tspan
+           id="tspan421281">- 4FSK modulation, 9600 bits per </tspan></tspan><tspan
          x="396.84961"
          y="170.99161"
-         id="tspan358627"><tspan
+         id="tspan421287"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358625">second gross bitrate
+           id="tspan421285">second gross bitrate
 </tspan></tspan><tspan
          x="396.84961"
          y="194.32498"
-         id="tspan358631"><tspan
+         id="tspan421291"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358629">- 3200 bits per second voice </tspan></tspan><tspan
+           id="tspan421289">- 3200 bits per second voice </tspan></tspan><tspan
          x="396.84961"
          y="217.65836"
-         id="tspan358635"><tspan
+         id="tspan421295"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358633">payload rate
+           id="tspan421293">payload rate
 </tspan></tspan><tspan
          x="396.84961"
          y="240.99173"
-         id="tspan358639"><tspan
+         id="tspan421299"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358637">- 9kHz channel width
+           id="tspan421297">- 9kHz channel width
 </tspan></tspan><tspan
          x="396.84961"
          y="264.3251"
-         id="tspan358643"><tspan
+         id="tspan421303"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358641">- Over 1800 Twitter followers
+           id="tspan421301">- Over 1800 Twitter followers
 </tspan></tspan><tspan
          x="396.84961"
          y="287.65848"
-         id="tspan358647"><tspan
+         id="tspan421307"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358645">- Over 600 Discord/Matric chat </tspan></tspan><tspan
+           id="tspan421305">- Over 600 Discord/Matric chat </tspan></tspan><tspan
          x="396.84961"
          y="310.99185"
-         id="tspan358651"><tspan
+         id="tspan421311"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358649">users
+           id="tspan421309">users
 </tspan></tspan><tspan
          x="396.84961"
          y="334.32523"
-         id="tspan358655"><tspan
+         id="tspan421315"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan358653">- 130 reflectors worldwide</tspan></tspan></text>
+           id="tspan421313">- 130 reflectors worldwide</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text410727"
+       style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect410729);fill:#000000;fill-opacity:1;stroke:none"
+       x="137.01303"
+       y="0"><tspan
+         x="794.24463"
+         y="572.24997"
+         id="tspan421319"><tspan
+           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic';fill:#4d4d4d"
+           id="tspan421317">Hams just like you!</tspan></tspan></text>
+    <g
+       id="imagebot_3"
+       label="Layer 1"
+       transform="matrix(0.09952758,0,0,0.09952758,233.08446,158.92652)">
+      <path
+         label="Layer 1"
+         fill="#ead5be"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="26.0639"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="4"
+         stroke-dashoffset="0"
+         transform="matrix(-0.0952085,0.04712,0.0783928,0.0943967,-112.603,272.18902)"
+         d="m -1064,429.39999 c 0,65.72202 -60.89,119.00003 -136,119.00003 -75.11,0 -136,-53.27801 -136,-119.00003 0,-65.72198 60.89,-119 136,-119 75.11,0 136,53.27802 136,119 z"
+         id="imagebot_31" />
+      <path
+         label="Layer 1"
+         transform="matrix(0.810471,0,0,0.790923,-175.012,-215.71898)"
+         fill="#3f7f00"
+         stroke="#000000"
+         stroke-width="3.66637px"
+         id="imagebot_30"
+         d="M 288.44299,462.754 C 251.883,457.814 241.013,548.71399 236.073,585.26398 c -2.95999,18.77002 70.14999,27.67004 73.11001,9.88 3.96,-36.54999 15.81,-127.44998 -20.74002,-132.38998 z" />
+      <rect
+         label="Layer 1"
+         fill="#253936"
+         stroke="#000000"
+         stroke-width="3.14016"
+         stroke-miterlimit="4"
+         transform="matrix(0.810415,0.00933289,-0.00956356,0.790868,-175.012,-215.71898)"
+         ry="7.53722"
+         rx="46.4445"
+         y="535.021"
+         x="378.21899"
+         height="121.323"
+         width="94.766098"
+         id="imagebot_29" />
+      <rect
+         label="Layer 1"
+         fill="#253936"
+         stroke="#000000"
+         stroke-width="3.14016"
+         stroke-miterlimit="4"
+         id="imagebot_28"
+         width="94.766098"
+         height="121.323"
+         x="283.38"
+         y="536.01099"
+         rx="46.4445"
+         ry="7.53722"
+         transform="matrix(0.810415,0.00933289,-0.00956356,0.790868,-175.012,-215.71898)" />
+      <path
+         label="Layer 1"
+         fill="#ead5be"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="3"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="4"
+         stroke-dashoffset="0"
+         id="imagebot_27"
+         d="m 264.286,108.216 c 12.971,5.221 0.96,21.657 9.609,29.61 1.649,15.952 -10.286,15.41 -18.257,14.189 -7.972,-1.221 -21.96,-3.658 -22.61,-11.611 -0.649,-7.952 23.286,-33.409 31.258,-32.188 z" />
+      <path
+         label="Layer 1"
+         transform="matrix(-0.417424,-0.694709,0.677953,-0.407355,43.729196,713.45002)"
+         fill="#3f7f00"
+         stroke="#000000"
+         stroke-width="3.666"
+         stroke-miterlimit="4"
+         d="m 454.42401,462.754 c 36.56,-4.94 47.41998,85.95999 52.35999,122.50998 2.97,18.77002 -70.13999,27.67004 -73.10999,9.88 -3.95001,-36.54999 -15.81,-127.44998 20.75,-132.38998 z"
+         id="imagebot_26" />
+      <path
+         label="Layer 1"
+         fill="#3f7f00"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="3.666"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="4"
+         stroke-dashoffset="0"
+         id="imagebot_25"
+         d="m 126.827,115.903 c 0,0 0,0 -0.803,0 0,0 0,0 0,0 -0.802,0 -0.802,0 -0.802,0 v 0 c -18.414,1.558 -36.0343,11.721 -47.2431,25.001 -24.8247,28.133 -34.4369,65.646 -35.2311,101.586 0.7942,9.38 -0.8024,20.319 3.2013,28.133 14.4102,8.597 40.8397,10.163 58.4519,11.722 4.806,0.783 12.814,0.783 20.821,0.783 v 0 c 0.802,0 1.605,0 2.399,0 0,0 0,0 0,0 8.008,0 16.015,0 20.821,-0.783 17.62,-1.559 43.239,-3.125 58.459,-11.722 4.004,-7.814 2.399,-18.753 2.399,-28.133 -0.802,-35.94 -9.612,-73.453 -34.428,-101.586 -11.217,-13.28 -28.829,-23.443 -47.251,-25.001 v 0 c 0,0 0,0 -0.794,0 z" />
+      <rect
+         label="Layer 1"
+         transform="matrix(0.810471,0,0,0.790923,-175.012,-215.71898)"
+         fill="#ead5be"
+         fill-rule="evenodd"
+         stroke="#000000"
+         stroke-width="3.67803"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="4"
+         stroke-dashoffset="0"
+         id="imagebot_24"
+         width="239.09599"
+         height="183.867"
+         x="248.923"
+         y="312.57401"
+         ry="91.953201"
+         rx="119.548" />
+      <path
+         label="Layer 1"
+         fill="#000000"
+         fill-rule="evenodd"
+         id="imagebot_23"
+         d="m 55,152.5 c 0,1.381 -1.1193,2.5 -2.5,2.5 -1.3807,0 -2.5,-1.119 -2.5,-2.5 0,-1.381 1.1193,-2.5 2.5,-2.5 1.3807,0 2.5,1.119 2.5,2.5 z"
+         transform="matrix(2.38462,0,0,2.3271,-42.157504,-245.12198)" />
+      <path
+         label="Layer 1"
+         fill="#000000"
+         fill-rule="evenodd"
+         id="imagebot_22"
+         d="m 55,152.5 c 0,1.381 -1.1193,2.5 -2.5,2.5 -1.3807,0 -2.5,-1.119 -2.5,-2.5 0,-1.381 1.1193,-2.5 2.5,-2.5 1.3807,0 2.5,1.119 2.5,2.5 z"
+         transform="matrix(2.38462,0,0,2.3271,37.916996,-245.12198)" />
+      <path
+         label="Layer 1"
+         fill="#5b2c00"
+         id="imagebot_21"
+         d="m 194.336,5.41555 c 2.365,-0.75066 4.706,-1.82877 6.391,-3.66555 0.164,1.43748 0.09,2.93085 -0.433,4.30444 -0.778,2.10031 -2.161,3.92111 -3.56,5.66206 1.006,-0.2156 2.046,-0.3434 3.019,-0.6469 3.347,-0.9583 6.694,-1.93259 10.05,-2.90688 1.342,2.32388 1.661,5.05508 1.833,7.65848 0.122,2.875 0.016,5.7739 -0.262,8.6568 -0.303,3.0027 -0.688,6.0134 -1.522,8.9363 -1.146,4.2006 -3.192,8.1057 -4.207,12.3383 3.184,2.4916 5.696,5.702 7.717,9.1359 2.562,4.4163 4.354,9.2158 5.639,14.1032 1.448,5.5343 2.275,11.2283 2.635,16.9223 0.368,5.9415 0.204,11.923 -0.491,17.833 -0.573,4.735 -1.473,9.439 -2.848,14.023 -0.287,0.783 -0.467,1.605 -0.835,2.364 -0.744,-2.58 -1.555,-5.159 -2.438,-7.699 -0.041,-0.127 -0.09,-0.247 -0.123,-0.367 -0.123,-0.359 -0.254,-0.727 -0.385,-1.078 -0.237,-0.703 -0.466,-1.398 -0.769,-2.084 -0.254,-0.783 -0.548,-1.558 -0.867,-2.316 -0.123,-0.32 -0.23,-0.647 -0.385,-0.967 -0.115,-0.327 -0.221,-0.655 -0.368,-0.966 -0.082,-0.208 -0.172,-0.415 -0.254,-0.623 -0.794,-1.925 -1.596,-3.849 -2.512,-5.7338 -0.197,-0.5351 -0.491,-1.0462 -0.745,-1.5733 -0.09,-0.1677 -0.18,-0.3354 -0.262,-0.4951 -0.434,-1.0062 -0.916,-1.9965 -1.481,-2.9228 -0.09,-0.1678 -0.18,-0.3275 -0.254,-0.4872 -0.294,-0.543 -0.523,-1.0941 -0.875,-1.5892 -0.18,-0.3753 -0.385,-0.7587 -0.622,-1.0941 -0.115,-0.2156 -0.246,-0.4232 -0.368,-0.6149 -0.156,-0.2875 -0.311,-0.591 -0.5,-0.8465 -0.147,-0.2715 -0.302,-0.5111 -0.458,-0.7587 -0.139,-0.2156 -0.262,-0.4232 -0.393,-0.6468 -0.032,-0.04 -0.123,-0.1278 -0.163,-0.1677 -0.189,-0.4153 -0.475,-0.7827 -0.729,-1.158 -0.409,-0.6229 -0.851,-1.2218 -1.235,-1.8448 -0.041,-0.0399 -0.123,-0.1277 -0.164,-0.1677 -0.213,-0.3593 -0.483,-0.7027 -0.72,-1.0461 -0.467,-0.6549 -0.99,-1.2938 -1.506,-1.9326 -0.278,-0.3913 -0.597,-0.7188 -0.867,-1.1101 -0.221,-0.2316 -0.475,-0.4552 -0.63,-0.7507 -0.418,-0.3753 -0.704,-0.8704 -1.138,-1.2378 -0.36,-0.3354 -0.614,-0.7826 -0.99,-1.118 -1.326,-1.2219 -2.537,-2.5795 -3.945,-3.6975 -1.276,-1.126 -2.618,-2.1722 -4.034,-3.1145 -0.041,-0.032 -0.131,-0.1038 -0.172,-0.1358 -0.523,-0.3035 -1.023,-0.6389 -1.522,-0.9743 -0.466,-0.2795 -0.933,-0.583 -1.424,-0.8305 -0.18,-0.1278 -0.393,-0.2476 -0.605,-0.3674 -0.172,-0.0718 -0.352,-0.1517 -0.532,-0.2316 -0.041,-0.0399 -0.123,-0.1277 -0.172,-0.1597 -0.859,-0.3913 -1.67,-0.8704 -2.545,-1.1899 -0.36,-0.1837 -0.745,-0.3514 -1.121,-0.4871 -0.213,-0.0879 -0.426,-0.1677 -0.622,-0.2556 -5.328,-2.0683 -11.121,-2.9867 -16.85,-2.8749 -8.068,0.1916 -16.006,2.1961 -23.478,5.087 -1.301,0.4632 -2.569,1.0143 -3.846,1.5333 l -0.008,0.0559 c -0.376,0.1039 -0.753,0.2796 -1.105,0.4313 l -0.024,0.0479 c -0.679,0.2236 -1.301,0.567 -1.923,0.8944 -0.058,-0.016 -0.156,-0.016 -0.205,-0.0239 v 0.1757 c -0.057,-0.032 -0.188,-0.0639 -0.245,-0.0799 l 0.008,0.1357 c -0.966,0.3275 -1.842,0.8625 -2.758,1.2858 v 0.1278 c -0.057,-0.016 -0.188,-0.0639 -0.254,-0.0799 v 0.1917 c -0.065,-0.016 -0.188,-0.0479 -0.245,-0.0639 l -0.008,0.1836 c -0.058,-0.0079 -0.172,-0.0319 -0.238,-0.0479 l -0.016,0.1118 c -0.63,0.2716 -1.236,0.615 -1.858,0.9264 l -0.024,0.0559 c -0.229,0.0799 -0.45,0.1757 -0.679,0.2396 0.261,-1.0781 0.671,-2.1163 0.908,-3.1944 0.401,-1.5972 0.826,-3.2343 0.753,-4.8954 -0.049,-0.9343 -0.483,-1.9246 -1.359,-2.4038 -0.679,-0.2715 -1.432,-0.3913 -2.144,-0.2555 -1.759,0.1837 -3.453,0.7267 -5.122,1.2298 -5.418,1.6771 -10.884,3.4979 -16.588,3.9451 -0.671,0.008 -1.3258,0.1438 -2.005,0.1198 -0.8183,-0.024 -1.6448,0.1357 -2.4877,0.1198 -0.9247,0.0399 -1.8331,-0.008 -2.7668,0.1118 -1.4485,0.0479 -2.9133,-0.016 -4.3617,0.1198 -2.7251,0.0639 -5.442,-0.032 -8.1424,0.1277 -2.6351,-0.0079 -5.2537,0.016 -7.8724,0.0559 -1.6367,0.1518 -3.2815,0.032 -4.8936,0.1278 -1.1293,0.1438 -2.2505,0.016 -3.3552,0.1518 -5.1719,0.2475 -10.3928,0.7586 -15.3274,2.3558 -1.5221,0.551 -3.0524,1.1739 -4.4517,1.9885 -0.4665,0.2715 -0.9084,0.575 -1.383,0.8625 -0.491,0.3354 -0.9656,0.7028 -1.4403,1.0701 -2.6923,2.1562 -4.6972,5.0232 -6.1947,8.0658 -1.784,3.6576 -2.9215,7.5867 -3.8135,11.5477 -1.7267,8.0498 -2.4631,16.2678 -3.0033,24.4608 -0.0981,-0.096 -0.1636,-0.183 -0.2209,-0.311 -1.3257,-3.618 -2.6432,-7.236 -3.9935,-10.853 -0.0572,-0.12 -0.0982,-0.24 -0.1554,-0.352 -0.1474,-0.463 -0.2865,-0.918 -0.4992,-1.341 -0.5156,-1.51 -1.1048,-2.979 -1.6612,-4.464 -2.1277,-6.1735 -3.4207,-12.6341 -3.7153,-19.1427 -0.1145,-1.8687 -0.0491,-3.7534 -0.0327,-5.6221 0.1146,-0.7986 0.0736,-1.6211 0.1718,-2.4437 0.3847,-5.0711 1.473,-10.1262 3.2406,-14.9178 0.1392,-0.3353 0.2619,-0.6468 0.3765,-0.9742 0.0818,-0.2077 0.1718,-0.4073 0.2537,-0.6149 0.09,-0.1997 0.18,-0.3993 0.2536,-0.607 0.131,-0.2875 0.2537,-0.567 0.3683,-0.8625 0.2291,-0.4791 0.4664,-0.9423 0.6874,-1.4295 2.1686,-4.3603 4.9754,-8.4172 8.4125,-11.907 3.126,-3.1864 6.7185,-5.8937 10.6301,-8.0898 1.1538,-0.6628 2.3568,-1.2378 3.5925,-1.7569 1.7021,-0.7187 3.5352,-1.3576 4.8363,-2.6992 0.7774,-0.7427 1.3175,-1.6851 1.8495,-2.6035 2.6186,-3.5857 5.9411,-6.6523 9.6154,-9.1678 4.0343,-2.7472 8.5025,-4.8475 13.1178,-6.4687 C 82.0273,10.87 87.371,9.64012 92.7474,8.7457 102.969,7.05268 113.338,6.58151 123.673,6.50964 c 14.403,-0.07986 28.773,0.77464 43.167,1.05413 6.097,0.07187 12.226,0.11981 18.29,-0.46317 3.11,-0.30347 6.219,-0.76665 9.206,-1.68505 z"
+         stroke="#000000"
+         stroke-width="3.5" />
+      <path
+         label="Layer 1"
+         fill="#e3dbdb"
+         stroke="#000000"
+         stroke-width="3.6"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="4"
+         id="imagebot_20"
+         d="m 4408.7002,-1932.51 c 22.1597,0 40.29,14.65 42.5,33.56 -2.1802,3.5101 -20.3101,6.22 -42.5,6.22 h -0.5601 c -22.1899,0 -40.3203,-2.7099 -42.5,-6.22 2.21,-18.91 20.3399,-33.56 42.5,-33.56 z"
+         transform="matrix(0.810471,0,0,0.790923,-3483.81,1814.133)" />
+      <path
+         label="Layer 1"
+         fill="#3d0822"
+         stroke="#000000"
+         stroke-width="3.6"
+         stroke-miterlimit="4"
+         id="imagebot_19"
+         d="m 88.8425,286.094 c 14.6285,0 27.0775,7.68 32.1675,18.61 -6.767,1.63 -18.033,2.792 -30.9031,2.943 l -1.5157,0.023 c -13.9157,0.158 -26.0079,-0.901 -32.5487,-2.594 4.9764,-11.128 17.555,-18.982 32.3461,-18.982 z" />
+      <path
+         label="Layer 1"
+         fill="#752d50"
+         stroke="#000000"
+         stroke-width="3.6"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="4"
+         id="imagebot_18"
+         d="m 89.0451,285.556 c 3.2094,0 6.3053,0.38 9.2555,1.068 -4.9356,8.146 -9.0774,14.743 -9.4827,14.743 -0.4214,0 -4.5628,-6.597 -9.4905,-14.743 2.934,-0.688 6.0544,-1.068 9.2555,-1.068 z" />
+      <path
+         label="Layer 1"
+         fill="#e3dbdb"
+         stroke="#000000"
+         stroke-width="3.6"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="4"
+         d="m 4506.1401,-1932.51 c -22.1601,0 -40.29,14.65 -42.5,33.56 2.1797,3.5101 20.3101,6.22 42.5,6.22 h 0.5601 c 22.1899,0 40.3198,-2.7099 42.5,-6.22 -2.21,-18.91 -20.3403,-33.56 -42.5,-33.56 z"
+         id="imagebot_17"
+         transform="matrix(0.810471,0,0,0.790923,-3483.81,1814.133)" />
+      <path
+         label="Layer 1"
+         fill="#3d0822"
+         stroke="#000000"
+         stroke-width="3.6"
+         stroke-miterlimit="4"
+         d="m 168.755,286.094 c -14.629,0 -27.078,7.68 -32.168,18.61 6.768,1.63 18.033,2.792 30.904,2.943 l 1.515,0.023 c 13.916,0.158 26.008,-0.901 32.549,-2.594 C 196.578,293.948 184,286.094 169.209,286.094 Z"
+         id="imagebot_16" />
+      <path
+         label="Layer 1"
+         fill="#752d50"
+         stroke="#000000"
+         stroke-width="3.6"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="4"
+         d="m 4506.4702,-1932.65 c -3.9604,0 -7.7803,0.48 -11.4204,1.3499 6.0903,10.3001 11.2002,18.6401 11.7002,18.6401 0.52,0 5.6299,-8.34 11.71,-18.6401 -3.6202,-0.8699 -7.4698,-1.3499 -11.42,-1.3499 z"
+         id="imagebot_15"
+         transform="matrix(0.810471,0,0,0.790923,-3483.81,1814.133)" />
+      <g
+         label="Layer 1"
+         id="imagebot_11"
+         transform="matrix(0.810471,0,0,0.790923,-3743.16,1814.133)">
+        <path
+           fill="#000000"
+           d="m 4692.8198,-2185.72 c 7.1504,-0.33 14.3003,-0.51 21.4702,-0.54 3.6299,-0.07 7.2398,0.02 10.8799,0.05 6.3799,0.1299 12.8101,0.3399 19.1602,1.0201 2.8799,0.29 5.7099,0.8498 8.4199,1.78 2.8799,0.98 5.5698,2.3298 8.4199,3.3699 5.0601,1.9101 10.73,2.1201 15.9199,0.6301 2.8404,-0.8401 5.4703,-2.1301 8.2002,-3.2102 2.4698,-1 5.0899,-1.75 7.73,-2.19 2.94,-0.4599 5.8799,-0.6999 8.8701,-0.8999 6.96,-0.4399 13.94,-0.54 20.9097,-0.58 13.8501,0.05 27.7002,0.4399 41.48,1.7199 4.3203,0.4302 8.6504,0.9302 12.8901,1.8802 -0.1699,5.79 -0.3198,11.5998 -0.9497,17.3698 -0.1704,1.45 -0.3804,2.9102 -0.8203,4.3001 -0.2397,0.7099 -0.6001,1.4499 -1.29,1.8 -0.69,0.3201 -1.4698,0.27 -2.19,0.51 -1.1299,0.3699 -2.0097,1.26 -2.6797,2.18 -1.1201,1.5901 -1.9101,3.3601 -2.6401,5.1201 -0.8203,2.0698 -1.4199,4.1999 -2.0703,6.3098 -0.6099,2.02 -1.3296,4.0601 -2.5698,5.79 -0.9102,1.24 -1.9502,2.4202 -3.2998,3.1802 -0.5601,0.3399 -1.19,0.5999 -1.7701,0.8899 -3.9902,1.5701 -8.2202,2.3001 -12.4399,2.8999 -5.9204,0.8301 -11.9502,1.2102 -17.9404,1.3201 -1.7398,0.07 -3.44,0.07 -5.17,0.01 -6.4096,-0.1199 -12.8598,-0.5501 -19.1899,-1.71 -2.8599,-0.54 -5.6997,-1.23 -8.3901,-2.3501 -1.7598,-0.77 -3.5396,-1.7299 -4.71,-3.27 -1.6396,-2.26 -2.8599,-4.76 -3.7798,-7.3498 -0.9101,-2.47 -1.5698,-5.0101 -2.5102,-7.47 -0.7398,-1.8801 -1.7198,-3.7102 -3.0796,-5.24 -0.8203,-0.78 -1.5601,-1.6702 -2.5103,-2.3001 -0.1797,-0.1501 -0.3501,-0.28 -0.5298,-0.4001 -0.3701,-0.3098 -0.77,-0.5398 -1.1899,-0.7898 -0.29,-0.2202 -0.6304,-0.4101 -0.9404,-0.55 -0.92,-0.5901 -1.96,-1.0301 -2.94,-1.49 -0.8398,-0.01 -1.7099,0 -2.54,0 -0.4697,-0.03 -0.8999,0.2299 -1.3296,0.3899 -0.6704,0.3501 -1.4004,0.6601 -2.0601,1.1001 -0.3203,0.1399 -0.6201,0.3198 -0.9101,0.5 -0.94,0.55 -1.7998,1.2099 -2.6099,1.8899 -0.8701,0.8801 -1.81,1.6899 -2.48,2.6999 -1.3003,1.76 -2.1601,3.8001 -2.83,5.8301 -0.8902,2.5801 -1.6099,5.1999 -2.6499,7.72 -0.8204,1.9499 -1.8604,3.82 -3.1104,5.52 -1.3799,1.7199 -3.3999,2.7199 -5.3999,3.51 -2.8901,1.1401 -5.96,1.8 -9.0298,2.3 -6.5801,1.0999 -13.27,1.44 -19.9302,1.49 -6.77,-0.03 -13.5498,-0.3601 -20.2597,-1.26 -3.2403,-0.4399 -6.44,-1.01 -9.6001,-1.8601 -2.1499,-0.6099 -4.3599,-1.2998 -6.2202,-2.5999 -1.9898,-1.59 -3.3999,-3.83 -4.2798,-6.2099 -0.9702,-2.6101 -1.5703,-5.3001 -2.5703,-7.9202 -0.8399,-2.1299 -1.75,-4.29 -3.2198,-6.0998 -0.54,-0.7801 -1.3198,-1.3301 -2.1699,-1.6802 -0.8203,-0.25 -1.7002,-0.2898 -2.5102,-0.5498 -0.3501,-0.3301 -0.6499,-0.6802 -0.9097,-1.1001 -0.2002,-0.51 -0.4102,-1.03 -0.5303,-1.5801 -0.4897,-2.2998 -0.73,-4.6199 -0.8598,-6.9399 -0.17,-0.77 -0.06,-1.5801 -0.1802,-2.3499 -0.08,-0.79 -0.01,-1.5901 -0.1499,-2.3901 -0.06,-0.97 -0.03,-1.97 -0.06,-2.94 -0.1201,-1.1899 -0.06,-2.3901 -0.1299,-3.6001 -0.03,-0.8598 -0.07,-1.75 -0.06,-2.6298 3.2202,-0.73 6.52,-1.1702 9.7998,-1.5401 6.6601,-0.74 13.3501,-1.1699 20.04,-1.49 m 4.2403,4.21 c -3.2203,0.22 -6.44,0.6001 -9.5303,1.6001 -1.5698,0.52 -3.0899,1.25 -4.46,2.1799 l 0.01,0.09 c -0.3599,0.2 -0.6802,0.4299 -0.9702,0.74 -0.4497,0.4499 -0.9698,0.8799 -1.3399,1.4299 -0.29,0.3201 -0.5498,0.6399 -0.7798,1 -1.58,2.3599 -2.29,5.1599 -2.5503,7.92 -0.33,3.4299 -0.09,6.8901 0.3902,10.28 0.6299,4.4599 1.8999,8.9599 4.5698,12.6401 1.4702,2.0498 3.3799,3.75 5.5903,5.0098 4.1099,2.3901 8.8999,3.28 13.5899,3.7302 3.52,0.3499 7.06,0.4199 10.5898,0.4299 3.7901,-0.01 7.5503,-0.01 11.3203,-0.1601 3.1597,-0.04 6.3399,-0.21 9.4898,-0.5698 2.7202,-0.3401 5.4302,-0.8101 7.9599,-1.8001 1.8999,-0.73 3.71,-1.75 5.1802,-3.1499 2.0801,-1.8901 3.5298,-4.3601 4.5498,-6.9202 0.94,-2.3498 1.6201,-4.7299 2.1499,-7.1899 0.09,-0.3899 0.1802,-0.78 0.2603,-1.1899 0.5698,-2.7901 1.1001,-5.5901 1.2397,-8.44 -0.03,-2.77 -0.48,-5.6101 -1.8598,-8.0701 -0.09,-0.1 -0.17,-0.2299 -0.25,-0.34 -0.3999,-0.73 -0.8999,-1.3999 -1.4898,-1.98 -0.25,-0.3899 -0.5703,-0.76 -1.0102,-1 l 0.05,-0.03 c -0.2896,-0.22 -0.5498,-0.45 -0.8399,-0.6099 l 0.05,-0.09 c -0.1802,-0.09 -0.3804,-0.22 -0.5703,-0.3 l 0.01,-0.07 c -0.8404,-0.5598 -1.6802,-1.0999 -2.6001,-1.5498 -0.3999,-0.1802 -0.7803,-0.3601 -1.21,-0.5301 -0.2202,-0.09 -0.4199,-0.1799 -0.6401,-0.25 -3.73,-1.4299 -7.71,-2.05 -11.6299,-2.4499 -3.27,-0.29 -6.5503,-0.4602 -9.8203,-0.4602 -1.4097,-0.07 -2.8199,-0.03 -4.2398,-0.05 -3.98,-0.01 -7.9399,-0.04 -11.9302,-0.05 -3.0996,0 -6.1899,-0.01 -9.2797,0.2 m 107.3398,0.8 c -2.79,0.3999 -5.5698,0.97 -8.1997,2.0201 -0.2202,0.07 -0.4502,0.1499 -0.6401,0.25 -0.5201,0.1999 -1,0.4399 -1.4703,0.6799 -1.0996,0.51 -2.0996,1.21 -3.06,1.9299 -0.1499,0.1301 -0.2896,0.2901 -0.44,0.4102 -0.3798,0.29 -0.7397,0.6098 -1.0996,0.9599 -0.01,0.07 -0.04,0.17 -0.06,0.22 -0.3404,0.23 -0.5703,0.53 -0.8003,0.8699 l -0.04,0.01 c -0.8798,1.1802 -1.5698,2.49 -2.0097,3.8801 -0.9302,2.8899 -0.9302,5.99 -0.4903,8.96 0.3902,2.53 0.8604,5.05 1.48,7.54 0.6402,2.5701 1.4102,5.1001 2.5703,7.5 1.0298,2.1299 2.3897,4.1399 4.19,5.68 1.4297,1.2399 3.1201,2.1701 4.8799,2.83 2.6001,0.99 5.3398,1.47 8.1001,1.7901 3.08,0.3498 6.1601,0.51 9.2597,0.5598 3.8501,0.1501 7.69,0.1501 11.5401,0.1601 3.3003,0 6.6201,-0.08 9.9101,-0.3701 4.3501,-0.3999 8.75,-1.1199 12.73,-3.0498 3.54,-1.6902 6.5298,-4.51 8.3398,-7.9902 0.2701,-0.46 0.5201,-0.8899 0.67,-1.3999 h 0.05 c 1.7197,-3.8999 2.4599,-8.1299 2.8198,-12.3401 0.1601,-0.98 0.06,-1.97 0.1699,-2.9299 0.07,-0.69 0.07,-1.3999 -0.04,-2.0999 -0.06,-2.6401 -0.48,-5.3601 -1.5699,-7.78 -0.1801,-0.5301 -0.4599,-1.01 -0.7397,-1.47 -0.6602,-1.1802 -1.5503,-2.2102 -2.5503,-3.1201 -0.1299,-0.08 -0.2598,-0.1599 -0.3599,-0.27 -0.56,-0.48 -1.1499,-0.8599 -1.75,-1.26 -0.03,0 -0.09,0 -0.1201,-0.01 -0.4399,-0.3001 -0.9297,-0.5301 -1.4399,-0.74 -2.3701,-1.0301 -4.9102,-1.5501 -7.46,-1.8699 -3.4599,-0.4502 -6.9599,-0.5501 -10.4502,-0.5501 -3.8799,-0.01 -7.77,0.03 -11.6499,0.04 -6.77,0.04 -13.56,-0.02 -20.27,0.9599 z"
+           id="imagebot_14" />
+        <path
+           fill="#000000"
+           d="m 4672.0298,-2181.5 -23.25,1.6599 v 7.9102 l 24.4404,3.2099"
+           id="imagebot_13" />
+        <path
+           fill="#000000"
+           id="imagebot_12"
+           d="m 4869.3101,-2181.5 23.2397,1.6599 v 7.9102 l -24.4297,3.2099" />
+      </g>
+      <title
+         label="Layer 1"
+         id="title420364" />
+      <path
+         label="Layer 1"
+         id="imagebot_10"
+         d="m 85.1829,134.471 c 12.9328,60.845 51.6541,13.119 51.6541,13.119 -18.792,2.448 -35.261,-0.726 -51.6541,-13.119 z"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="5.51689"
+         stroke="#000000"
+         fill="#000000" />
+      <path
+         label="Layer 1"
+         fill="#5656ff"
+         stroke="#000000"
+         stroke-width="3.66637px"
+         stroke-dasharray="none"
+         stroke-linejoin="null"
+         stroke-linecap="null"
+         stroke-opacity="null"
+         d="m 17.805,228.26601 c 12.69,-1.47501 22.38,7.04998 17.07,22.57599 17.69,-2.475 22.38,8.05 17.07,22.57499 C 56.351,270.642 68.731,262.15201 73.62,258.20401 76.894,249.235 53.452,212.931 38.593,211.63 c -6.697,4.866 -13.911,11.23501 -20.788,16.63601 z"
+         id="imagebot_8"
+         transform="rotate(136,46.421235,242.5925)" />
+      <path
+         label="Layer 1"
+         fill="#00007f"
+         stroke="#000000"
+         stroke-width="3.66637px"
+         stroke-dasharray="none"
+         stroke-linejoin="null"
+         stroke-linecap="null"
+         stroke-opacity="null"
+         d="m 211.805,137.999 c 12.69,-1.475 22.38,7.05 17.07,22.576 17.69,-2.475 22.38,8.05 17.07,22.575 4.406,-2.775 16.786,-11.265 21.675,-15.213 3.274,-8.969 -20.168,-45.273 -35.027,-46.574 -6.697,4.866 -13.911,11.235 -20.788,16.636 z"
+         id="imagebot_4" />
+      <metadata
+         id="metadata420369">image/svg+xmlOpenclipart</metadata>
+      <g
+         transform="rotate(18.4349,-473.77921,372.72628)"
+         id="imagebot_85">
+        <g
+           transform="scale(0.234477)"
+           id="imagebot_82"
+           label="Layer 1">
+          <path
+             id="imagebot_84"
+             d="m 390.95,565.24 c -1.167,-0.471 -2.413,-2.018 -2.769,-3.437 -0.633,-2.522 -0.843,-2.58 -9.378,-2.623 -4.802,-0.024 -12.106,-0.488 -16.231,-1.031 -4.125,-0.543 -12.35,-1.364 -18.277,-1.826 -13.782,-1.072 -15.209,-2.086 -14.295,-10.164 0.549,-4.856 0.317,-6.031 -1.809,-9.164 -1.341,-1.976 -2.595,-4.421 -2.785,-5.432 -0.279,-1.479 -1.719,-1.998 -7.341,-2.65 -52.014,-6.029 -119.39,-56.479 -93.241,-69.818 2.138,-1.09 6.532,-4.414 9.765,-7.387 10.468,-9.624 30.239,-21.374 46.983,-27.923 7.6,-2.972 11,-5.085 11,-6.835 0,-2.874 10.013,-13.961 25.038,-27.726 6.304,-5.775 13.785,-12.862 16.625,-15.75 5.275,-5.363 8.284,-6.419 12.25,-4.296 3.323,1.778 14.526,3.133 33.587,4.062 19.34,0.943 23.067,1.598 42.363,7.449 4.6,1.394 9.337,2.535 10.527,2.535 5.453,0 8.551,5.873 6.438,12.201 -1.528,4.577 -1.48,4.545 -10.375,6.872 -15.148,3.963 -23.544,10.08 -16.301,11.877 6.945,1.723 16.862,4.735 23.347,7.091 18.814,6.835 40.935,0.119 60.117,-18.252 4.645,-4.448 11.054,-6.137 14.003,-3.689 2.127,1.766 12.974,24.209 14.21,29.401 1.081,4.541 6.25,17.399 11.458,28.5 6.715,14.314 8.712,19.261 8.712,21.586 0,3.892 3.737,18.597 6.051,23.813 9.309,20.978 -12.357,24.866 -47.536,8.532 -15.925,-7.394 -18.89,-7.973 -24.119,-4.702 -18.863,11.799 -28.367,15.349 -59.896,22.373 -11.95,2.662 -12.758,3.147 -12.2,7.308 1.07,7.982 -4.639,25.114 -9.504,28.521 -2.498,1.75 -3.345,1.827 -6.417,0.586 z m 79.217,-74.154 c 1.048,-1.176 3.414,-2.776 5.259,-3.557 3.022,-1.279 3.21,-1.585 1.902,-3.112 -0.799,-0.931 -1.735,-2.491 -2.081,-3.466 -0.706,-1.986 -3.387,-3.349 -4.467,-2.269 -0.387,0.388 0.082,1.281 1.044,1.984 3.907,2.857 0.767,6.767 -6.502,8.095 -4.225,0.772 -4.491,1.18 -2,3.071 2.532,1.922 4.676,1.689 6.845,-0.746 z m -85.766,-13.862 c 1.194,0 2.171,-0.425 2.171,-0.944 0,-2.04 -18.44,-0.727 -18.838,1.341 -0.323,1.68 0.13,1.83 4.144,1.378 2.479,-0.28 5.102,-0.141 5.828,0.308 0.789,0.487 1.965,0.232 2.922,-0.634 0.881,-0.797 2.579,-1.449 3.773,-1.449 z m 113.5,-18.136 c 6.16,-1.237 8.769,-3.171 6.858,-5.083 -0.846,-0.845 -1.586,-0.732 -2.908,0.443 -2.447,2.176 -8.92,3.797 -12.39,3.103 -2.231,-0.446 -2.883,-0.209 -2.883,1.048 0,1.97 3.251,2.11 11.324,0.489 z m -1.859,-8.544 c 6.779,-1.095 11.577,-4.472 8.034,-5.654 -2.079,-0.692 -3.647,-0.536 -5.914,0.589 -2.77,1.375 -5.231,2.311 -10.898,4.144 -2.801,0.907 -0.826,2.877 2.181,2.176 1.448,-0.338 4.417,-0.903 6.597,-1.255 z m -220.68,-2.213 c 3.862,-1.971 7.893,-5.758 7.038,-6.612 -0.967,-0.968 -12.308,4.343 -13.677,6.404 -1.872,2.82 1.325,2.92 6.639,0.208 z m 51.46,-36.243 c 2.145,-1.145 2.215,-2.233 0.25,-3.864 -0.825,-0.685 -1.5,-1.865 -1.5,-2.622 0,-2.398 -1.709,-1.522 -7.18,3.678 -5.142,4.887 0.817,6.871 8.43,2.808 z"
+             fill="#ff7f00"
+             transform="translate(-184.57,-335.22)" />
+          <path
+             id="imagebot_83"
+             d="m 390.85,562.97 c -0.532,-0.688 -1.223,-1.971 -1.535,-2.853 -0.459,-1.299 -2.911,-1.737 -12.905,-2.307 -6.785,-0.387 -15.364,-1.125 -19.064,-1.64 -3.699,-0.515 -10.412,-1.171 -14.917,-1.459 -10.34,-0.661 -10.852,-1.101 -10.879,-9.363 -0.041,-12.468 -3.096,-16.412 -13.978,-18.044 -32.105,-4.817 -61.315,-19.559 -90.318,-45.583 -10.704,-9.605 -11.026,-16.63 -1.005,-21.955 2.653,-1.41 8.043,-5.372 11.978,-8.805 10.658,-9.297 27.035,-18.858 44.227,-25.82 4.753,-1.924 9.082,-4.382 10,-5.676 8.116,-11.448 13.447,-17.633 19.965,-23.167 4.21,-3.574 12.095,-10.903 17.522,-16.288 9.991,-9.911 12.258,-11.13 16.485,-8.868 2.661,1.424 25.012,4.078 34.343,4.078 12.226,0 23.071,1.606 33.811,5.009 5.221,1.654 12.336,3.505 15.811,4.114 7.244,1.268 8.789,3.322 7.636,10.149 -0.725,4.292 -1.81,5.002 -10.183,6.661 -6.851,1.358 -13.064,4.342 -18.205,8.742 -5.069,4.34 -5.394,4.006 7.161,7.344 5.65,1.502 17.073,5.08 25.385,7.952 15.113,5.222 15.113,5.222 20,1.726 2.688,-1.923 7.812,-4.965 11.387,-6.759 9.804,-4.92 17.003,-9.659 22,-14.481 10.79,-10.414 19.127,-3.051 27.297,24.107 2.166,7.198 7.068,19.178 13.798,33.722 4.504,9.732 6.295,14.988 7.495,22 0.867,5.068 2.664,11.949 3.993,15.292 8.813,22.165 -8.66,25.667 -44.562,8.932 -17.491,-8.154 -19.018,-8.403 -25.888,-4.222 -15.7,9.553 -29.382,15.611 -40.091,17.75 -8.236,1.644 -26.469,5.948 -29.653,6.998 -3.126,1.032 -3.126,1.032 -3.176,8.748 -0.101,15.696 -8.783,30.625 -13.936,23.966 z m 1.504,-17 c 1.796,-2.189 2.657,-12.658 1.082,-13.163 -1.059,-0.339 -40.988,-1.685 -50.227,-1.693 -2.674,-0.002 -2.746,0.233 -1.889,6.191 0.522,3.624 1.264,5.448 2.264,5.562 0.819,0.093 4.638,0.7 8.488,1.347 5.959,1.003 22.462,2.327 35.628,2.859 1.995,0.08 4.089,-0.416 4.654,-1.104 z m 22.219,-31.565 c 6.875,-1.67 16.1,-3.817 20.5,-4.769 15.078,-3.265 28.531,-9.61 36.798,-17.357 6.784,-6.358 17.175,-4.756 39.202,6.044 13.781,6.757 22.5,8.735 22.5,5.104 0,-4.793 -6.96,-29.309 -10.279,-36.208 -3.909,-8.126 -9.091,-21.385 -12.702,-32.5 -5.325,-16.395 -8.018,-18.635 -15.766,-13.114 -2.614,1.863 -8.801,5.511 -13.749,8.108 -4.948,2.596 -10.123,5.511 -11.5,6.478 -1.377,0.967 -4.304,2.36 -6.504,3.096 -2.2,0.737 -4.428,1.698 -4.95,2.136 -1.595,1.336 -4.889,0.887 -8.171,-1.115 -25.962,-15.831 -91.711,-20.458 -142.8,-10.049 -33.546,6.835 -73.83,35.649 -63.444,45.381 12.046,11.287 40.525,28.075 49.636,29.26 10.725,1.395 39.227,-28.979 39.227,-41.803 0,-7.18 5.255,-10.471 8.591,-5.379 4.58,6.99 1.937,17.453 -7.449,29.501 -10.709,13.744 -13.748,17.293 -16.892,19.724 -6.16,4.763 -3.085,6.296 16.75,8.35 5.225,0.541 12.2,1.392 15.5,1.892 14.071,2.128 51.906,0.522 65.5,-2.781 z m -146.31,-47.99 c -5.401,-5.637 -2.129,-14.195 5.427,-14.195 5.385,0 8.699,10.905 4.757,15.655 -1.97,2.373 -7.235,1.619 -10.185,-1.459 z m 60.313,-52.267 c 13.882,-2.117 44.973,-2.919 57.027,-1.471 5.472,0.657 5.472,0.657 11.473,-6.44 3.3,-3.903 7.687,-7.988 9.75,-9.077 9.226,-4.874 -3.158,-8.78 -28.204,-8.897 -5.2,-0.024 -14.2,-0.568 -20,-1.209 -16.763,-1.853 -18.761,-0.823 -41.796,21.54 -9.106,8.839 -9.275,8.759 11.75,5.554 z"
+             fill="#312c3b"
+             transform="translate(-184.57,-335.22)" />
+          <title
+             id="title420373" />
+        </g>
+        <metadata
+           id="metadata420376">image/svg+xmlOpenclipartsimple fish2013-03-01T15:32:19https://openclipart.org/detail/175391/simple-fish-by-global-quiz-175391global quizfishhand drawn</metadata>
+      </g>
+      <path
+         label="Layer 1"
+         fill="#56aaff"
+         stroke="#000000"
+         stroke-width="3.66637px"
+         stroke-dasharray="none"
+         stroke-linejoin="null"
+         stroke-linecap="null"
+         stroke-opacity="null"
+         d="m 206.041,207.733 c -7.002,6.708 -14.005,11.417 -21.007,13.125 -7.336,-2.625 -12.672,-5.25 -19.008,-10.875 -5.336,6.708 -12.671,9.417 -19.007,11.125 -8.003,-1.625 -15.005,-5.25 -21.008,-10.875 -5.669,5.708 -11.338,9.417 -20.007,11.125 -6.336,-1.625 -13.6721,-5.25 -19.0081,-10.875 -5.6692,5.708 -14.3383,8.417 -21.0075,11.125 -7.6692,-0.625 -13.3384,-4.25 -20.0076,-12.875 -3.0237,9.625 -4.0592,29.25 -3.1065,40.875 7.2972,8.005 14.5943,11.011 21.8915,11.016 6.6305,-0.995 14.2609,-3.99 19.8914,-7.985 4.9639,5.005 12.9279,8.011 20.8918,9.016 6.964,-1.328 13.927,-4.656 20.891,-9.984 5.964,5.672 12.928,8.343 20.892,11.015 7.964,-1.661 13.927,-4.323 20.891,-10.984 5.964,5.005 10.928,8.01 17.892,9.015 7.964,-0.995 16.927,-4.989 23.891,-10.984 0,-15.333 -0.994,-27.667 -3.965,-42 z"
+         id="imagebot_7" />
+      <path
+         label="Layer 1"
+         fill="#0000ff"
+         stroke="#000000"
+         stroke-width="3.66637px"
+         stroke-dasharray="none"
+         stroke-linejoin="null"
+         stroke-linecap="null"
+         stroke-opacity="null"
+         d="m 210.041,227.733 c -7.002,6.708 -17.005,12.417 -24.007,14.125 -7.336,-2.625 -12.672,-5.25 -19.008,-10.875 -5.336,6.708 -12.671,9.417 -19.007,11.125 -8.003,-1.625 -15.005,-5.25 -21.008,-10.875 -5.669,5.708 -11.338,9.417 -20.007,11.125 -6.336,-1.625 -13.6721,-5.25 -19.0081,-10.875 -5.6692,5.708 -14.3383,8.417 -21.0075,11.125 -7.6692,-0.625 -16.3384,-4.25 -23.0076,-12.875 -2.0237,9.625 -1.0592,29.25 -0.1065,40.875 19.2047,16.114 134.1677,18.12 167.1317,0.125 0,-15.333 1.006,-28.667 -0.965,-43 z"
+         id="imagebot_6" />
+      <path
+         label="Layer 1"
+         fill="#00007f"
+         stroke="#000000"
+         stroke-width="3.66637px"
+         stroke-dasharray="none"
+         stroke-linejoin="null"
+         stroke-linecap="null"
+         stroke-opacity="null"
+         d="m 210.041,247.733 c -7.002,3.621 -18.005,9.703 -25.007,10.625 -7.336,-1.417 -12.672,-5.834 -19.008,-8.87 -5.336,3.621 -12.671,8.083 -19.007,9.005 -8.003,-0.877 -15.005,-5.834 -21.008,-8.871 -5.669,3.082 -11.338,8.084 -20.007,9.006 -6.336,-0.877 -13.6721,-5.834 -19.0081,-8.871 -5.6692,3.082 -14.3383,7.544 -21.0075,9.006 -7.6692,-0.337 -17.3384,-5.294 -24.0076,-9.95 -1.0237,5.196 -0.0592,15.79 0.8935,22.066 20.2047,12.699 127.1677,19.782 167.1317,0.068 0,-8.278 1.006,-14.476 0.035,-23.214 z"
+         id="imagebot_5" />
+    </g>
   </g>
 </svg>
