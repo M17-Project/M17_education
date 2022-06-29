@@ -26,9 +26,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.84670104"
-     inkscape:cx="575.76403"
-     inkscape:cy="402.14903"
+     inkscape:zoom="0.59870805"
+     inkscape:cx="588.76777"
+     inkscape:cy="431.76303"
      inkscape:window-width="1280"
      inkscape:window-height="961"
      inkscape:window-x="-8"
@@ -2841,11 +2841,11 @@
        style="font-style:normal;font-weight:normal;font-size:29.3333px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect5166);fill:#333333;fill-opacity:1;stroke:none"><tspan
          x="19.967314"
          y="606.72849"
-         id="tspan430461">Bringing back freedom
+         id="tspan19289">Bringing back freedom
 </tspan><tspan
          x="78.641075"
          y="643.39511"
-         id="tspan430463">to digital voice</tspan></text>
+         id="tspan19291">to digital voice</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -2860,9 +2860,9 @@
        y="0"><tspan
          x="453.61133"
          y="103.90234"
-         id="tspan430467"><tspan
+         id="tspan19295"><tspan
            style="line-height:1.25;text-align:center;text-anchor:middle"
-           id="tspan430465">What is M17?</tspan></tspan></text>
+           id="tspan19293">What is M17?</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -2870,61 +2870,61 @@
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect124342);fill:#4d4d4d;fill-opacity:1;stroke:none"><tspan
          x="396.84961"
          y="147.65823"
-         id="tspan430473"><tspan
+         id="tspan19301"><tspan
    style="-inkscape-font-specification:sans-serif"
-   id="tspan430469">The </tspan><tspan
+   id="tspan19297">The </tspan><tspan
    style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-   id="tspan430471">M17 Project</tspan> is focused on </tspan><tspan
+   id="tspan19299">M17 Project</tspan> is focused on </tspan><tspan
          x="396.84961"
          y="170.99161"
-         id="tspan430475">research and development around </tspan><tspan
+         id="tspan19303">research and development around </tspan><tspan
          x="396.84961"
          y="194.32498"
-         id="tspan430477">digital voice and data modes, </tspan><tspan
+         id="tspan19305">digital voice and data modes, </tspan><tspan
          x="396.84961"
          y="217.65836"
-         id="tspan430481">culminating in the <tspan
+         id="tspan19309">culminating in the <tspan
    style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-   id="tspan430479">M17 Protocol</tspan> </tspan><tspan
+   id="tspan19307">M17 Protocol</tspan> </tspan><tspan
          x="396.84961"
          y="240.99173"
-         id="tspan430483">and related work, such as open </tspan><tspan
+         id="tspan19311">and related work, such as open </tspan><tspan
          x="396.84961"
          y="264.3251"
-         id="tspan430485">hardware designs and open </tspan><tspan
+         id="tspan19313">hardware designs and open </tspan><tspan
          x="396.84961"
          y="287.65848"
-         id="tspan430487">software packages.
+         id="tspan19315">software packages.
 </tspan><tspan
          x="396.84961"
          y="310.99185"
-         id="tspan430489">Protocol development revolves </tspan><tspan
+         id="tspan19317">Protocol development revolves </tspan><tspan
          x="396.84961"
          y="334.32523"
-         id="tspan430491">around Internet traffic routing, </tspan><tspan
+         id="tspan19319">around Internet traffic routing, </tspan><tspan
          x="396.84961"
          y="357.6586"
-         id="tspan430493">digital signal processing, both </tspan><tspan
+         id="tspan19321">digital signal processing, both </tspan><tspan
          x="396.84961"
          y="380.99197"
-         id="tspan430495">speech and RF.
+         id="tspan19323">speech and RF.
 </tspan><tspan
          x="396.84961"
          y="404.32535"
-         id="tspan430497">We love working with Software </tspan><tspan
+         id="tspan19325">We love working with Software </tspan><tspan
          x="396.84961"
          y="427.65872"
-         id="tspan430499">Defined Radios and GNU Radio.
+         id="tspan19327">Defined Radios and GNU Radio.
 </tspan><tspan
          x="396.84961"
          y="450.9921"
-         id="tspan430501">We also enjoy the hardware side of </tspan><tspan
+         id="tspan19329">We also enjoy the hardware side of </tspan><tspan
          x="396.84961"
          y="474.32547"
-         id="tspan430503">things – hacking chips to transmit </tspan><tspan
+         id="tspan19331">things – hacking chips to transmit </tspan><tspan
          x="396.84961"
          y="497.65884"
-         id="tspan430505">and/or receive M17.</tspan></text>
+         id="tspan19333">and/or receive M17.</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0,17.555633)"
@@ -2934,21 +2934,21 @@
        y="0"><tspan
          x="404.70635"
          y="614.0469"
-         id="tspan430509"><tspan
+         id="tspan19337"><tspan
            style="font-style:italic;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle"
-           id="tspan430507">I am glad that M17 supports IPv6 properly. </tspan></tspan><tspan
+           id="tspan19335">I am glad that M17 supports IPv6 properly. </tspan></tspan><tspan
          x="412.37987"
          y="632.38028"
-         id="tspan430513"><tspan
+         id="tspan19341"><tspan
            style="font-style:italic;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle"
-           id="tspan430511">To my knowledge it's the only ham radio </tspan></tspan><tspan
+           id="tspan19339">To my knowledge it's the only ham radio </tspan></tspan><tspan
          x="404.93193"
          y="650.71365"
-         id="tspan430519"><tspan
+         id="tspan19347"><tspan
            style="font-style:italic;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle"
-           id="tspan430515">linking system that does.</tspan><tspan
+           id="tspan19343">linking system that does.</tspan><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan430517"> - A satisfied user</tspan></tspan></text>
+           id="tspan19345"> - A satisfied user</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -2956,7 +2956,7 @@
        style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect205321);fill:#4d4d4d;fill-opacity:1;stroke:none"><tspan
          x="74.575195"
          y="272.5918"
-         id="tspan430521">Digital Voice mode</tspan></text>
+         id="tspan19349">Digital Voice mode</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,99.155052,0.00558546)"
@@ -2966,9 +2966,9 @@
        y="0"><tspan
          x="459.90039"
          y="103.90234"
-         id="tspan430525"><tspan
+         id="tspan19353"><tspan
            style="line-height:1.25;text-align:center;text-anchor:middle"
-           id="tspan430523">Who is M17?</tspan></tspan></text>
+           id="tspan19351">Who is M17?</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,99.071428,0.00558546)"
@@ -2976,73 +2976,73 @@
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect124342-5);fill:#4d4d4d;fill-opacity:1;stroke:none"><tspan
          x="396.84961"
          y="147.65823"
-         id="tspan430529"><tspan
+         id="tspan19357"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430527">Ham radio operators, and non-
+           id="tspan19355">Ham radio operators, and non-
 </tspan></tspan><tspan
          x="396.84961"
          y="170.99161"
-         id="tspan430533"><tspan
+         id="tspan19361"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430531">-hams all around the world.
+           id="tspan19359">-hams all around the world.
 </tspan></tspan><tspan
          x="396.84961"
          y="194.32498"
-         id="tspan430537"><tspan
+         id="tspan19365"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430535">People who care about the fate of </tspan></tspan><tspan
+           id="tspan19363">People who care about the fate of </tspan></tspan><tspan
          x="396.84961"
          y="217.65836"
-         id="tspan430541"><tspan
+         id="tspan19369"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430539">ham radio - just like you.
+           id="tspan19367">ham radio - just like you.
 </tspan></tspan><tspan
          x="396.84961"
          y="240.99173"
-         id="tspan430545"><tspan
+         id="tspan19373"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430543">Over the last couple of years, we </tspan></tspan><tspan
+           id="tspan19371">Over the last couple of years, we </tspan></tspan><tspan
          x="396.84961"
          y="264.3251"
-         id="tspan430549"><tspan
+         id="tspan19377"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430547">have formed a multidisciplinary, </tspan></tspan><tspan
+           id="tspan19375">have formed a multidisciplinary, </tspan></tspan><tspan
          x="396.84961"
          y="287.65848"
-         id="tspan430553"><tspan
+         id="tspan19381"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430551">international team of open-source </tspan></tspan><tspan
+           id="tspan19379">international team of open-source </tspan></tspan><tspan
          x="396.84961"
          y="310.99185"
-         id="tspan430557"><tspan
+         id="tspan19385"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430555">and hardware enthusiasts.
+           id="tspan19383">and hardware enthusiasts.
 </tspan></tspan><tspan
          x="396.84961"
          y="334.32523"
-         id="tspan430561"><tspan
+         id="tspan19389"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430559">Our interests include, but are not </tspan></tspan><tspan
+           id="tspan19387">Our interests include, but are not </tspan></tspan><tspan
          x="396.84961"
          y="357.6586"
-         id="tspan430565"><tspan
+         id="tspan19393"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430563">limited to: RF, protocol </tspan></tspan><tspan
+           id="tspan19391">limited to: RF, protocol </tspan></tspan><tspan
          x="396.84961"
          y="380.99197"
-         id="tspan430569"><tspan
+         id="tspan19397"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430567">development and routing, speech </tspan></tspan><tspan
+           id="tspan19395">development and routing, speech </tspan></tspan><tspan
          x="396.84961"
          y="404.32535"
-         id="tspan430573"><tspan
+         id="tspan19401"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430571">coding, hardware design, and </tspan></tspan><tspan
+           id="tspan19399">coding, hardware design, and </tspan></tspan><tspan
          x="396.84961"
          y="427.65872"
-         id="tspan430577"><tspan
+         id="tspan19405"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430575">signal processing.</tspan></tspan></text>
+           id="tspan19403">signal processing.</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,99.155052,120.05877)"
@@ -3052,9 +3052,9 @@
        y="0"><tspan
          x="462.80664"
          y="103.90234"
-         id="tspan430581"><tspan
+         id="tspan19409"><tspan
            style="line-height:1.25;text-align:center;text-anchor:middle"
-           id="tspan430579">How to join?</tspan></tspan></text>
+           id="tspan19407">How to join?</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,99.398196,120.05877)"
@@ -3062,41 +3062,20 @@
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect124342-5-0);fill:#4d4d4d;fill-opacity:1;stroke:none"><tspan
          x="396.84961"
          y="147.65823"
-         id="tspan430585"><tspan
+         id="tspan19413"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430583">You don't have to be an </tspan></tspan><tspan
+           id="tspan19411">You don't have to be an seasoned </tspan></tspan><tspan
          x="396.84961"
          y="170.99161"
-         id="tspan430589"><tspan
+         id="tspan19417"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430587">experienced software developer or </tspan></tspan><tspan
+           id="tspan19415">software developer or RF designer </tspan></tspan><tspan
          x="396.84961"
          y="194.32498"
-         id="tspan430593"><tspan
+         id="tspan19421"><tspan
            style="-inkscape-font-specification:sans-serif"
-           id="tspan430591">RF designer to join the adventure.
-</tspan></tspan><tspan
-         x="396.84961"
-         y="217.65836"
-         id="tspan430597"><tspan
-           style="-inkscape-font-specification:sans-serif"
-           id="tspan430595">No restrictions apply.
-</tspan></tspan><tspan
-         x="396.84961"
-         y="240.99173"
-         id="tspan430601"><tspan
-           style="-inkscape-font-specification:sans-serif"
-           id="tspan430599">We don't need your resume.
-</tspan></tspan><tspan
-         x="396.84961"
-         y="264.3251"
-         id="tspan430609"><tspan
-           style="-inkscape-font-specification:sans-serif"
-           id="tspan430603">We want </tspan><tspan
-           style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
-           id="tspan430605">you</tspan><tspan
-           style="-inkscape-font-specification:sans-serif"
-           id="tspan430607">.</tspan></tspan></text>
+           id="tspan19419">to join the adventure.
+</tspan></tspan></text>
     <g
        id="g3109"
        inkscape:export-ydpi="14.610658"
@@ -3180,20 +3159,19 @@
        y="132.88893"
        ry="2.5480556" />
     <g
-       id="g419028"
-       transform="matrix(0.83831942,0,0,0.83831942,40.784154,20.70761)">
+       id="g11995">
       <path
-         d="m 253.36176,122.86178 c -2.54334,1.09364 -3.20461,4.52716 -1.27167,6.51096 l 0.9156,0.91561 -0.58497,0.27977 c -0.33063,0.1526 -0.9919,0.58497 -1.4497,0.9919 -1.52601,1.27167 -2.77225,4.85779 -1.62774,4.62889 0.3052,-0.0509 0.50867,-0.43237 0.63584,-1.22081 0.55953,-3.25548 4.85778,-5.23929 7.96066,-3.63698 1.70404,0.89017 2.92485,2.67051 2.92485,4.27282 0,0.40693 0.15259,0.63583 0.38149,0.63583 0.53411,0 0.48324,-1.39883 -0.10173,-2.67051 -0.5341,-1.19537 -1.80577,-2.51791 -2.84854,-2.92485 l -0.71214,-0.30519 0.83931,-0.81388 c 2.77224,-2.5942 0.73757,-7.04505 -3.20462,-7.01963 -0.6104,0.0254 -1.4497,0.17804 -1.85664,0.35607 z m 3.56068,0.91561 c 3.45895,1.67861 1.80577,6.48553 -2.08554,6.02773 -1.62774,-0.17804 -3.12831,-1.75491 -3.12831,-3.30636 0,-1.39883 2.00924,-3.23004 3.53525,-3.23004 0.35607,0 1.09363,0.2289 1.6786,0.50867 z"
+         d="m 253.2651,123.70503 c -2.13213,0.91682 -2.68649,3.7952 -1.06607,5.45826 l 0.76757,0.76757 -0.49039,0.23454 c -0.27718,0.12793 -0.83153,0.49039 -1.21532,0.83153 -1.27928,1.06607 -2.32403,4.07238 -1.36456,3.88049 0.25585,-0.0427 0.42643,-0.36247 0.53303,-1.02343 0.46907,-2.72913 4.07238,-4.3922 6.67358,-3.04895 1.42853,0.74625 2.45196,2.23874 2.45196,3.58199 0,0.34113 0.12792,0.53302 0.31981,0.53302 0.44775,0 0.40511,-1.17266 -0.0853,-2.23874 -0.44775,-1.0021 -1.51381,-2.11081 -2.38799,-2.45195 l -0.597,-0.25585 0.70361,-0.68229 c 2.32402,-2.17477 0.61832,-5.906 -2.68649,-5.88469 -0.51172,0.0213 -1.21532,0.14925 -1.55646,0.2985 z m 2.98498,0.76757 c 2.89971,1.40721 1.51382,5.43695 -1.74834,5.05316 -1.36457,-0.14925 -2.62253,-1.47117 -2.62253,-2.77178 0,-1.17267 1.68439,-2.70781 2.96367,-2.70781 0.2985,0 0.91681,0.19189 1.4072,0.42643 z"
          id="path418978"
-         style="fill:#4d4d4d;stroke:none;stroke-width:0.0254335" />
+         style="fill:#4d4d4d;stroke:none;stroke-width:0.0213214" />
       <path
-         d="m 236.01465,122.97442 c -2.54334,1.09365 -3.20461,4.52716 -1.27167,6.51096 l 0.91561,0.91561 -0.58497,0.27977 c -0.33064,0.1526 -0.99191,0.58497 -1.44971,0.9919 -1.52601,1.27167 -2.77224,4.85779 -1.62774,4.62889 0.30521,-0.0509 0.50867,-0.43237 0.63584,-1.22081 0.55954,-3.25548 4.85778,-5.23929 7.96066,-3.63698 1.70404,0.89017 2.92485,2.67051 2.92485,4.27282 0,0.40693 0.1526,0.63583 0.3815,0.63583 0.53411,0 0.48324,-1.39883 -0.10173,-2.67051 -0.5341,-1.19537 -1.80578,-2.51791 -2.84855,-2.92484 l -0.71214,-0.3052 0.83931,-0.81387 c 2.77225,-2.59421 0.73757,-7.04506 -3.20461,-7.01964 -0.61041,0.0254 -1.44971,0.17804 -1.85665,0.35607 z m 3.56069,0.91561 c 3.45894,1.67861 1.80577,6.48553 -2.08555,6.02773 -1.62773,-0.17804 -3.12831,-1.75491 -3.12831,-3.30636 0,-1.39883 2.00924,-3.23004 3.53525,-3.23004 0.35607,0 1.09364,0.2289 1.67861,0.50867 z"
+         d="m 238.63982,123.79945 c -2.13213,0.91683 -2.68649,3.79521 -1.06607,5.45827 l 0.76758,0.76757 -0.4904,0.23454 c -0.27718,0.12793 -0.83153,0.49039 -1.21532,0.83153 -1.27928,1.06606 -2.32402,4.07238 -1.36456,3.88049 0.25586,-0.0427 0.42643,-0.36247 0.53304,-1.02343 0.46907,-2.72913 4.07237,-4.3922 6.67357,-3.04895 1.42853,0.74624 2.45196,2.23874 2.45196,3.58198 0,0.34114 0.12793,0.53303 0.31982,0.53303 0.44775,0 0.40511,-1.17266 -0.0853,-2.23874 -0.44775,-1.0021 -1.51382,-2.11081 -2.388,-2.45195 l -0.597,-0.25585 0.70361,-0.68229 c 2.32403,-2.17477 0.61832,-5.90601 -2.68649,-5.8847 -0.51171,0.0213 -1.21532,0.14926 -1.55646,0.2985 z m 2.98499,0.76758 c 2.8997,1.40721 1.51382,5.43694 -1.74835,5.05316 -1.36456,-0.14925 -2.62253,-1.47117 -2.62253,-2.77178 0,-1.17267 1.68439,-2.70781 2.96367,-2.70781 0.2985,0 0.91682,0.19189 1.40721,0.42643 z"
          id="path418978-5"
-         style="fill:#4d4d4d;stroke:none;stroke-width:0.0254335" />
+         style="fill:#4d4d4d;stroke:none;stroke-width:0.0213214" />
       <path
-         d="m 244.9135,120.15834 c -2.54335,1.09364 -3.20461,4.52715 -1.27167,6.51096 l 0.9156,0.9156 -0.58497,0.27977 c -0.33063,0.1526 -0.9919,0.58497 -1.4497,0.9919 -1.52601,1.27167 -2.77225,4.85779 -1.62774,4.62889 0.3052,-0.0509 0.50867,-0.43237 0.63584,-1.22081 0.55953,-3.25548 4.85778,-5.23929 7.96066,-3.63698 1.70404,0.89017 2.92485,2.67051 2.92485,4.27282 0,0.40693 0.15259,0.63583 0.38149,0.63583 0.53411,0 0.48324,-1.39883 -0.10173,-2.6705 -0.5341,-1.19538 -1.80577,-2.51791 -2.84854,-2.92485 l -0.71214,-0.3052 0.83931,-0.81387 c 2.77224,-2.59421 0.73757,-7.04506 -3.20462,-7.01963 -0.6104,0.0254 -1.4497,0.17804 -1.85664,0.35607 z m 3.56068,0.9156 c 3.45895,1.67861 1.80577,6.48553 -2.08554,6.02773 -1.62774,-0.17804 -3.12831,-1.75491 -3.12831,-3.30635 0,-1.39884 2.00924,-3.23004 3.53525,-3.23004 0.35607,0 1.09363,0.2289 1.6786,0.50866 z"
+         d="m 245.91103,121.43868 c -2.13214,0.91682 -2.68649,3.7952 -1.06607,5.45826 l 0.76757,0.76757 -0.49039,0.23454 c -0.27718,0.12792 -0.83153,0.49039 -1.21532,0.83153 -1.27928,1.06606 -2.32403,4.07237 -1.36456,3.88048 0.25585,-0.0427 0.42643,-0.36246 0.53303,-1.02343 0.46907,-2.72913 4.07238,-4.39219 6.67358,-3.04895 1.42853,0.74625 2.45196,2.23874 2.45196,3.58199 0,0.34114 0.12792,0.53303 0.31981,0.53303 0.44775,0 0.40511,-1.17267 -0.0853,-2.23873 -0.44775,-1.00211 -1.51381,-2.11081 -2.38799,-2.45196 l -0.597,-0.25586 0.70361,-0.68228 c 2.32402,-2.17477 0.61832,-5.90601 -2.6865,-5.88469 -0.51171,0.0213 -1.21531,0.14925 -1.55645,0.2985 z m 2.98498,0.76757 c 2.89971,1.40721 1.51382,5.43694 -1.74834,5.05316 -1.36457,-0.14926 -2.62253,-1.47118 -2.62253,-2.77178 0,-1.17267 1.68439,-2.7078 2.96367,-2.7078 0.2985,0 0.91681,0.19189 1.4072,0.42642 z"
          id="path418978-0"
-         style="fill:#4d4d4d;stroke:none;stroke-width:0.0254335" />
+         style="fill:#4d4d4d;stroke:none;stroke-width:0.0213214" />
     </g>
     <text
        xml:space="preserve"
@@ -3204,11 +3182,11 @@
        y="0"><tspan
          x="135.36286"
          y="529.42972"
-         id="tspan430611">No patents
+         id="tspan19423">No patents
 </tspan><tspan
          x="128.85895"
          y="562.76309"
-         id="tspan430613">No royalties</tspan></text>
+         id="tspan19425">No royalties</tspan></text>
     <g
        id="g10042"
        transform="matrix(-0.06518852,0,0,0.06518852,122.46357,128.37072)">
