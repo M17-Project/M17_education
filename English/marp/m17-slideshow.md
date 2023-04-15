@@ -22,7 +22,23 @@ Open Source Amateur Radio
 
 ---
 
+<!-- Edit this slide with your own info and photos -->
+
+![bg vertical right:33%](kc1awv.jpg)
+![bg](n2xdd.jpg)
+# Speakers
+
+## Steve Miller KC1AWV
+Systems administration and Integrations
+
+## Ed Wilson N2XDD
+Community Manager and Pimary NCS
+
+---
+
 # What is M17?
+
+<!-- Don't read this slide verbatim. Important points are that M17 first started as just a new radio protocol, but has now grown into a large community of developers, hackers, and enthusiasts. It is also important to note that while the protocols listed are "open" they rely on proprietary hardware or infrastructure as originally designed. Can't buy a D-Star radio that's not made by Icom (yes, Kenwood too...) or a Fusion radio not made by Yaesu. AMBE2+ vocoder is still closed source as of this writing. -->
 
 From the M17 Project website: https://m17project.org
 
@@ -34,11 +50,13 @@ Existing VHF/UHF DV modes are mostly derived from commerical or public service s
 
 # M17 Application Features
 
+<!-- Important to state here that M17 is a VHF+ digital voice and data protocol. Some people may initially assume this is a digital mode for HF like FT8. M17 could be used on HF, but not legally at least in the US (ITU-2). The symbol rate is too high, and the occupied bandwidth is too wide. A lot of DMR folks may be interested in the no callsign database requirement. M17 does not require registration of any kind, unlike DMR and D-Star. -->
+
 Fully open source hardware and software, including the Codec 2 vocoder. Specification is available at https://spec.m17project.org
 
 Built by a global team of amateurs
 
-9600 bps 4FSK modulation (4800 symbols/sec)
+9600 bps 4FSK modulation (4800 symbols/sec) in 9kHz bandwidth
 
 Codec 2 at 3200 bps (voice only), or Codec 2 at 1600 bps (mixed voice and data)
 
@@ -47,6 +65,8 @@ No callsign database needed
 ---
 
 # M17 Application Features
+
+<!-- SMS is common in DMR and D-Star, maybe P25. Packet mode doesn't seem to be popular on other modes, but is fully supported and easy to implement in M17 (KISS TNCs). Stress the optional when talking about encryption, not everyone is happy when they hear the word encryption. Also be sure to point out that M17 is manufacturer agnostic, anyone can make an M17 radio that would be interoperable with another as long as the specification is followed.  -->
 
 Short message support (SMS)
 
@@ -64,6 +84,8 @@ Manufacturer agnostic - can be implemented by any capable platform
 
 # History
 
+<!-- This is a brief history, and may exclude some other facts of lesser importance. This also takes care of the question "why is it called M17?" -->
+
 M17 started in Warsaw, Poland, by Wojciech Kaczmarski SP5WWP while he was a member of the SP5KAB radio club
 
 After experimenting with existing DV modes, Wojciech deceded to create a different mode, now called M17. The name is derived from the address of the SP5KAB radio club, Mokotowska 17
@@ -73,6 +95,8 @@ Now, four years later, a global team has contributed to M17 hardware and softwar
 ---
 
 # ARRL Technical Innovation Award
+
+<!-- Wojciech received the award, Ed accepted it on his behalf at ARRL headquarters. It was then sent to him in Poland. The reward money was donated by Wojciech into the M17 Project. -->
 
 > The 2021 ARRL Technical Innovation Award honors Wojciech Kaczmarski, SP5WWP, for developing a new digital radio communication protocol, M17, for the good of amateur radio. 
 
