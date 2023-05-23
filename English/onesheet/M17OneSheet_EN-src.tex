@@ -1,0 +1,153 @@
+\documentclass[10pt,letterpaper,notitlepage]{article}
+\usepackage[OT1]{fontenc}
+\renewcommand*\familydefault{\sfdefault}
+\usepackage[document]{ragged2e}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[left=2cm,right=2cm,top=1cm,bottom=1cm]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[C]{\includegraphics[width=3cm]{m17glow.png}}
+\setlength{\headheight}{69pt}
+\usepackage[many]{tcolorbox}
+\pagenumbering{gobble}
+\author{Steve Miller KC1AWV}
+\title{M17 One-Sheet Introduction}
+\begin{document}
+  \begin{multicols}{2}
+  \section*{Who is M17?}
+    Ham radio operators, and non-hams all around the world.
+    \subsection*{Main Contributors:}
+      Wojciech SP5WWP\\
+      Steve KC1AWV\\
+      Mike W2FBI\\
+      Ed N2XDD\\
+      Tom N7TAE\\
+      Rob WX9O\\
+      Doug AD8DP\\
+      Jonathan G4KLX\\
+      Mathis DB9MAT\\
+      Niccolo IU2KIN\\
+      Silvano IU2KWO\\
+      Federico IU2NUO\\
+      Fred IU2NRO\\
+      Bonnie N1IIM\\
+      Jay KA1PQK\\
+      Dave N1AI\\
+      Pedro M0IEI\\
+      Tony VK3JED\\
+      Paulo PU4THZ\\
+      Morgan ON4MOD\\
+      \justifying
+      ... and 2000+ other great people in our online communities
+      across Discord, Matrix, Facebook and Twitter.
+  \section*{What is M17?}
+    \justifying
+    The M17 Project is focused on research and development around digital voice and data modes, culminating in the M17 Protocol and related work, such as open hardware designs and open software packages. Protocol development revolves around Internet traffic routing, digital signal processing, both speech and RF. We love working with Software Defined Radios and GNU Radio. We also enjoy the hardware side of things — hacking chips to transmit and/or receive M17.
+  \columnbreak
+  \section*{Why M17?}
+    \justifying
+    Digital radio modes have stagnated since the early 1990s due to the use of a proprietary voice encoder, the software or chip that converts analog voice from the microphone into a low-bitrate data stream and back. Development, and experimentation are all limited by the patent encumbered voice codecs, preventing average hams from building, and working on their own radios. M17 uses a fully-open ham-developed voice encoder called Codec2, which is patent free and has no royalties or licensing costs — and is about on-par with AMBE2+ used in other commercially available digital voice modes in terms of voice quality. M17 is more fun to work on, we already have all the cool developers (except for you, dear reader). See also all our cool demos that you would never see on a for-profit radio design. Ham radio was meant to be fun, meant to be ’free’, and meant to be exploratory.
+  \section*{Where is M17?}
+    \justifying
+    M17 can be found worldwide (start a group in your local club!), and online:
+    \begin{description}
+      \item[m17project.org] The M17 main Project page
+      \item[openrtx.org] Open-Source radio firmware
+      \item[m17.club] M17 users’ group
+      \item[opencollective.org] M17’s 501(c)(3) Fiscal Host    
+    \end{description}
+  \section*{When is M17?}
+    \justifying
+    24/7, thanks to being global across all time zones, for the last four years. Started in 2019, M17 currently has active developers involved daily!
+  \end{multicols}
+  \bigskip
+  \section*{}
+    \newtcolorbox{boxA}{
+      fontupper = \bf,
+      boxrule = 1.5pt,
+      colframe = black
+    }
+    \begin{boxA}
+    \centering
+    I am glad that M17 supports IPv6 properly. To my knowledge, it’s the only ham radio linking system that does.\\
+    --- A satisfied customer\\
+    \bigskip
+    Ik [sic] it’s old news but seeing it makes me so excited that digital voice is hackable
+now.\\
+    --- A Discord User, referencing M17\\
+    \end{boxA}
+  \pagebreak
+  \begin{multicols}{2}
+  \section*{Contact and Get Involved}
+    \justifying
+    Discord and Matrix for M17 main development and discussion. Weekly voice chat on Fridays at 1700 UTC on the M17-M17 Reflector, Module C.\\
+    GitHub and occasionally other code forges for code sharing. Chat with us on DroidStar, mvoice, or M17Client via the M17-M17 C Reflector!\\
+    M17 is autonomous, self-driven and self-selected. There is no strong hierarchy by default, but the community is happy to provide guidance if desired!\\
+    ARDC grant allows for equipment purchases. M17 is looking for future grants and donations for continuing and sustaining work.
+  \section*{M17 Technical Basics}
+    \justifying
+    4FSK modulation at 4800 symbols per second\\
+    9600 bits per second gross bitrate\\
+    3200 bits per second voice payload rate\\
+    Channel bandwidth of 9kHz\\
+    Convolutional coding and bit interleaving for error protection\\
+  \columnbreak
+  \section*{Feed / Media}
+    \justifying
+    Mastodon: @m17\_project@mastodon.radio\\
+    Twitter: @m17\_project\\
+    Facebook Group: M17 Project (ham radio)\\
+    YouTube Channel: M17 Project\\
+  \section*{M17 Project Weekly Voice Net}
+    \centering
+    \emph{On Fridays at 1700 UTC}\\
+    \raggedright
+    \begin{description}
+      \item[M17] via M17-M17 C
+      \item[Analog] via ASL 46550 and EL KC1AWV-R
+      \item[DMR] via FreeDMR TG 9517
+      \item[YSF] via 13170 - M17 Project
+    \end{description}
+    Other networks and links are welcome, contact KC1AWV for information!
+    \vfill\null
+  \end{multicols}
+  \centering
+  \section*{Links and Other Information}
+    \begin{boxA}
+      \centering
+      {\large M17 Protocol Specification (a work in progress):}\\
+      \textbf{https://spec.m17project.org}\\
+    \end{boxA}
+  \begin{multicols}{2}
+    \raggedright
+    \begin{description}
+      \item[M17 Project Website:]https://m17project.org
+      \item[Discord:]https://discord.gg/G8zGphypf6
+      \item[Matrix Space:]https://matrix.to/\#/\#m17-project:matrix.org
+      \item[GitHub:]https://github.com/M17-Project
+      \item[YouTube:]https://youtube.com/c/M17Project
+      \item[Twitter:]https://twitter.com/m17\_project
+      \item[Mastodon:]@m17\_project@mastodon.radio
+      \item[Facebook:]https://www.facebook.com/groups/m17project
+      \item[OpenRTX:]https://openrtx.org
+      \item[mvoice by N7TAE:]https://github.com/n7tae/mvoice
+      \item[DroidStar by AD8DP:]https://github.com/nostar/DroidStar
+      \item[M17Client by G4KLX:]https://github.com/g4klx/M17Client
+      \item[Mobilinkd TNC4:]http://www.mobilinkd.com/
+    \end{description}
+  \end{multicols}
+  \centering
+  \section*{Special Thanks to:}
+    \raggedright
+    \begin{description}
+      \item[ARDC] (https://ardc.net)
+      \item[Open Collective Foundation] (https://opencollective.com/m17-project)
+      \item[Ettus Research] (https://www.ettus.com)
+      \item[ZUMRadio] (https://zumradio.com)
+    \end{description}
+\end{document}
