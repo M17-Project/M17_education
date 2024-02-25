@@ -194,25 +194,7 @@ img[alt~="right"] {
 
 ---
 
-<!-- workaround to get the header where it needs to be -->
-<style scoped>
-section::before {
-  content: '2021 ARRL Technical Innovation Award';
-
-  position: absolute;
-  left: 50px;
-  top: 30px;
-  font-size: 60px;
-  font-weight: bold;
-}
-</style>
-
-\
-\
-Presented to: Wojciech Kaczmarski, SP5WWP
-For developing a new digital radio communication M17 protocol for the good of amateur radio. M17 is a new open source patent free digital radio protocol with a goal to provide a fully sustainable option for digital radios in the future. His project as led to development of DroidStar (an Android application) by Doug McLain, AD8DP, and the protocol as also been incorporated within other amateur radio related projects to help advance the radio art.
-
-![bg right fit](./images/2021_arrl.png)
+![bg fit](./images/2021_arrl.jpg)
 
 ---
 
