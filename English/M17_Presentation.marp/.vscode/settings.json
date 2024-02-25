@@ -1,0 +1,5 @@
+{
+    "markdown.marp.themes": [
+      "./m17theme.css"
+    ]
+  }

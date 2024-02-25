@@ -1,0 +1,52 @@
+/*
+@theme m17theme
+*/
+
+
+@import 'gaia';
+
+
+section {
+/*
+  width: 1280px;
+  height: 960px;
+
+  width: 1024px;
+  height: 768px;
+*/
+
+  font-size: 30px;
+  padding: 50px;
+  background: rgb(183, 179, 202);
+  color: #000;
+
+}
+
+img[alt~="center"] {
+    display: block;
+    margin: 0 auto;
+  }
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+  }
+
+code {
+  font-size: 30px;
+}
+
+ul,ol {
+  font-size: 35px;  
+}
+
+ul > li > ul{
+  font-size: 25px;
+}
