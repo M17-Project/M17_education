@@ -514,6 +514,29 @@ img[alt~="right"] {
 
 ---
 
+# 2024 - M17RAN Block Diagram
+
+<style scoped>
+img[alt~="left"] {
+  position: absolute;
+  top: 140px;
+  left: 50px;
+  height: 550px;
+}
+
+img[alt~="right"] {
+  position: absolute;
+  top: 140px;
+  right: 50px;
+  height: 550px;
+}
+</style>
+
+![left](./images/2024_M17RAN_ground.png)
+![right](./images/2024_M17RAN_tower.png)
+
+---
+
 # 2024 – Remote Radio Unit (RRU)
 
 <style scoped>
