@@ -165,7 +165,7 @@ Some notes here that might be useful.
 - Tom, N7TAE, creates mvoice
 - Rob, WX9O, creates m17-cxx-demod command line encoder/decoder tools
 
-![bg right:33%](./images/2020_droidstar.png)
+![bg right:30%](./images/2020_droidstar.png)
 
 ---
 
@@ -359,15 +359,30 @@ img[alt~="right"] {
 
 ---
 
-# 2023 – WPSD Hotspot
+<!-- workaround to get the header where it needs to be -->
+<style scoped>
+section::before {
+  content: '2023 – WPSD Hotspot';
 
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  font-size: 60px;
+  font-weight: bold;
+}
+</style>
+
+<br>
+<br>
+  
 - Created by Chip, W0CHP
-  - Originally a web overlay for Pi-Star, 
-  now is a wholly separate distribution 
-  for repeater and personal hotspot
-  management
-  - Supports M17 as well as other 
-  popular digital protocols
+  - Started as a fork of Pi-Star
+  - Repeater and personal hotspot
+  - First hotspot to support M17 (in 2020)
+  - Became an official M17 sub-project
+- Future
+  - Support for Raspberry Pi 5
+  - CC1200 Hats
 
 ![bg right:55% fit](./images/2023_wpsd.png)
 
@@ -404,7 +419,21 @@ img[alt~="right"] {
 
 ---
 
-# 2024 – CC1200 Hotspot
+<!-- workaround to get the header where it needs to be -->
+<style scoped>
+section::before {
+  content: '2024 – CC1200 Hotspot Hat';
+
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  font-size: 60px;
+  font-weight: bold;
+}
+</style>
+
+<br>
+<br>
 
 - Uses Texas Instruments CC1200 silicon
   - Superior Adjacent Channel Power Ratio (ACPR) vs incumbent hotspot hardware (ADF7021)
@@ -531,7 +560,7 @@ img[alt~="right"] {
 - 10-15 active weekly NET check-ins at M17-M17 C reflector
 - Over 3300 X (formerly Twitter) followers
 - More than 1395 Discord chat users
-- “M17 (amateur radio)” Wikipedia article in 8 languages
+- “M17 (amateur radio)” Wikipedia article in 9 languages
 
 ---
 
