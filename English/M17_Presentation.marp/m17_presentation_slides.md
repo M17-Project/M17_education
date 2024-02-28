@@ -160,37 +160,25 @@ Some notes here that might be useful.
 
 - Media coverage increases via Twitter, blogs
 - Protocol specification refinement
-- OpenRTX project starts to create replacement 
-firmware for common HTs
+- OpenRTX project starts to create replacement firmware for common HTs
 - Doug, AD8DP, adds M17 to DroidStar
 - Tom, N7TAE, creates mvoice
-- Rob, WX9O, creates m17-cxx-demod 
-command line encoder/decoder tools
+- Rob, WX9O, creates m17-cxx-demod command line encoder/decoder tools
 
-<style scoped>
-img[alt~="right"] {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  height: 100%;
-}
-</style>
-
-![right](./images/2020_droidstar.png)
+![bg right:33%](./images/2020_droidstar.png)
 
 ---
 
 # 2021
 
 - Significant financial assistance via ARDC grant
-- We win the ARRL’s Technical Innovation Award
-- MMDVM and OpenWebRX start to support M17
+- Win the ARRL’s Technical Innovation Award
+- MMDVM and OpenWebRX add M17 support
 - First QO-100 satellite tests
 - SDR++ adds M17 support
 
 
-![bg right fit](./images/2021_sdrpp.png)
-
+![bg right:55% fit](./images/2021_sdrpp.png)
 
 ---
 
@@ -314,36 +302,19 @@ img[alt~="right"] {
 # 2023 - OpenHT
 
 - SDR handheld
-  - If you can modulate it we can send it...
-- Currently…
+  - If you can modulate it we can send it
+- Currently
   - Open-source hardware and firmware*
   - 430 MHz / 2.4 GHz @25 mW
-  - *FPGA toolchain and IPs are not 
-    open-source
-- For the future...
+  - *FPGA toolchain and IPs are not open-source
+- In the future
   - OpenRTX
   - USB-C charging
   - Open-source FPGA
   - 5W output
 
-<style scoped>
-img[alt~="left"] {
-  position: absolute;
-  top: 130px;
-  left: 53%;
-  height: 550px;
-}
-
-img[alt~="right"] {
-  position: absolute;
-  top: 130px;
-  left: 75%;
-  height: 550px;
-}
-</style>
-
-![left](./images/2023_openht_a.png)
-![right](./images/2023_openht_b.png)  
+![bg right](./images/2023_openht_a.png)
+![bg right:50%](./images/2023_openht_b.png) 
 
 ---
 
@@ -384,16 +355,7 @@ img[alt~="right"] {
 - Supported by OpenRTX
 - Require a small hardware mod
 
-<style scoped>
-img[alt~="right"] {
-  position: absolute;
-  top: 0px;
-  right: 0%;
-  height: 100%;
-}
-</style>
-
-![right](./images/2023_tyt.jpg)
+![bg right:35%](./images/2023_tyt.jpg)
 
 ---
 
@@ -407,16 +369,7 @@ img[alt~="right"] {
   - Supports M17 as well as other 
   popular digital protocols
 
-<style scoped>
-img[alt~="right"] {
-  position: absolute;
-  top: 25%;
-  right: 0%;
-  height: 55%;
-}
-</style>
-
-![right](./images/2023_wpsd.png)
+![bg right:55% fit](./images/2023_wpsd.png)
 
 ---
 
@@ -454,25 +407,14 @@ img[alt~="right"] {
 # 2024 – CC1200 Hotspot
 
 - Uses Texas Instruments CC1200 silicon
-  - Superior Adjacent Channel Power Ratio (ACPR) vs
-  incumbent hotspot hardware (ADF7021)
+  - Superior Adjacent Channel Power Ratio (ACPR) vs incumbent hotspot hardware (ADF7021)
   - Designed as a Raspberry PI hat
 - Full M17 spec conformance
   - Soft decoding capabilities (with libm17)
 - Supports FM Analog
-  - Allows for use of FM Analog HTs to access
-  M17 reflectors
+  - Allows for use of FM Analog HTs to access M17 reflectors
 
-<style scoped>
-img[alt~="right"] {
-  position: absolute;
-  top: 0%;
-  right: 0%;
-  height: 100%;
-}
-</style>
-
-![right](./images/2024_cc1200_hotspot.png)
+![bg right:40%](./images/2024_cc1200_hotspot.png)
 
 ---
 
