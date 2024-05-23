@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Text Documents">
+		<name>M17 Info Sheet</name>
+		<file>Document-1.sla</file>
+		<tnail>M17 Info Sheettn.png</tnail>
+		<img>M17 Info Sheet.png</img>
+		<psize>Letter, portrait</psize>
+		<color>Black, Red, Grey</color>
+		<descr>M17 Project Information sheet template</descr>
+		<usage>For creating information sheets for the M17 Project&apos;s various hardware and software, or general information</usage>
+		<scribus_version>1.6.1</scribus_version>
+		<date>2024-05-23</date>
+		<author>Steve KC1AWV</author>
+		<email>kc1awv@m17.sh</email>
+	</template>
+</templates>
